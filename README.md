@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://candida-noronha.web.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="@DeveloperJuanAquinoPA"/></a>
 	<a href="mailto:panthergamingnvidia12@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="@DeveloperJuanAquinoPA"/></a>
-	<a href="https://github.com/JosueCColcasDesarrollador" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="@DeveloperJuanAquinoPA"/></a>
+	<a href="https://github.com/DeveloperJuanAquinoPA" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="@DeveloperJuanAquinoPA"/></a>
 	<a href="https://www.linkedin.com/in/jesús-josué-castañeda-colcas-9a73a5312" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="@DeveloperJuanAquinoPA"/></a>
 	<a href="https://www.facebook.com/candida.noronha.77" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="@DeveloperJuanAquinoPA"/></a>
 	<a href="https://instagram.com/candyyyy__18" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="@DeveloperJuanAquinoPA"/></a>
