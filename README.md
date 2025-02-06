@@ -36,28 +36,4 @@
 
 ### 💻 Languages and Tools:
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,aws,azure,blender,bootstrap,c,cs,cpp,cmake,dart,linkedin,nodejs,vscode,visualstudio,debian,django,dotnet,express,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,gradle,idea,java,react,html,css,js,jquery,kali,kotlin,laravel,linux,matlab,mongodb,mysql,nestjs,nextjs,nodejs,npm,php,postman,py,r,react,sqlite,selenium,swift,tailwind,tensorflow,ubuntu,unity,unrealengine,vue,yarn,figma&theme=dark&perline=13" alt="Skill Icons" />
-  </a>
-</p>
-
-### 🌟 GitHub Trophies:
----
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=se-laps&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="se-laps" />
-  </a> 
-</p>
-
-### ✍ GitHub Stats:
----
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</p>
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SE-LAPS&theme=dark&hide_border=false) 
-
-<br><br>
-<h2 align="left">✅Dev Quote:</h2>
-<hr size="2" width="55%" color="yellow">
-<h3 align="center";color:"yellow";>◀" Set your goal to achieve high goals, and don't stop until you get there. "▶</h3>
-<br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,aws,azure,blender,bootstrap,c,cs,cpp,cmake,dart,linkedin,nodejs,vscode,visualstudio,debian,django,dotnet,express,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,gradle,idea,java,react,html,css,js,jquery,kali,kotlin,laravel,linux,matlab,mongodb,mysql,nestjs,nextjs,nodejs,npm,php,postman,py,r,react,sqlite,selen
