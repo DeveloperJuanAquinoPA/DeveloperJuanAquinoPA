@@ -1,80 +1,78 @@
-<!-- Banner Personalizado -->
-<p align="center">
-  <img src="https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/Portada.png" alt="Banner de Juan Rojas">
-</p>
+# 🌟 DeveloperJuanRojas  
 
-<h1 align="center">🔥 SENIOR FULL STACK & MOBILE DEVELOPER 🔥</h1>
+![Banner](https://github.com/JosueCColcasDesarrollador/JosueCColcasDesarrollador/blob/main/Portada.png)  
 
-<p align="center">
-  <a href="https://github.com/DeveloperJuanAquinoPA" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="mailto:tucorreo@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Correo"/></a>
-  <a href="https://www.linkedin.com/in/tu-perfil-linkedin" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@ProgramadorGlobal" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
-  <a href="https://www.instagram.com/tu-instagram" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
+## **Hi 👋, I'm Juan Rojas**  
 
----
+💻 **Desarrollador Full Stack | PHP | React Native**  
 
-## **💡 Sobre Mí**
-<hr size="2" width="55%" color="yellow">  
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"> 
+📌 Apasionado por la tecnología, el desarrollo web y móvil, y la inteligencia artificial.  
 
-✅ **Desarrollador Full Stack & Mobile** con experiencia en **PHP, Laravel, React Native y más.**  
-💡 Apasionado por la tecnología, el desarrollo web y la innovación.  
-🎓 Explorando **Web3, Microservicios y Machine Learning.**  
-📚 Creador de contenido en **"Programador Global Aprende Todos los Lenguajes".**  
-📬 **Contacto:** [tucorreo@gmail.com](mailto:tucorreo@gmail.com)  
-📄 **[Descarga mi CV](https://tu-enlace-cv.com)**  
+📚 Actualmente aprendiendo **Web3, Microservicios y Machine Learning**.  
+
+🎯 Buscando oportunidades en el mercado **internacional** como desarrollador **Full Stack**.  
+
+📺 Creando contenido en mis canales de YouTube:  
+[Programador Global Aprende Todos los Lenguajes](https://www.youtube.com/@ProgramadorGlobal)  
+[Crea Tu Web Desde Cero](https://www.youtube.com/@CreaTuWebDesdeCero)  
 
 ---
 
-## **⚡ Habilidades y Tecnologías**
+## 🚀 **Languages and Tools:**  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,js,ts,html,css,bootstrap,tailwind,nodejs,nextjs,mysql,mongodb,git,github,linux,vscode,aws,docker,flutter,unity" />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=php,laravel,react,js,ts,html,css,sass,tailwind,bootstrap,nodejs,express,python,java,flutter,dart,cpp,cs,django,mysql,postgres,mongodb,firebase,sqlite,redis,graphql,git,github,gitlab,bitbucket,linux,bash,nginx,aws,gcp,azure,docker,kubernetes,figma,vscode,androidstudio,visualstudio&theme=dark&perline=10" alt="Skill Icons" />
+</a>
 </p>
 
 ---
 
-## **🌍 Proyectos Destacados**
-🔹 [Proyecto 1 - Nombre](https://github.com/tu-repositorio) - Descripción breve.  
-🔹 [Proyecto 2 - Nombre](https://github.com/tu-repositorio) - Descripción breve.  
-🔹 [Proyecto 3 - Nombre](https://github.com/tu-repositorio) - Descripción breve.  
+## 🏆 **GitHub Trophies:**  
 
----
-
-## **🌟 GitHub Trophies**
-<hr size="2" width="55%" color="yellow">  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperJuanAquinoPA&theme=radical&no-frame=false&no-bg=true&margin-w=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanRojasDev&theme=radical&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## **📊 GitHub Stats**
-<hr size="2" width="55%" color="yellow">  
+## 📊 **GitHub Stats:**  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJuanAquinoPA&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperJuanAquinoPA&layout=compact&theme=dark" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperJuanAquinoPA&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanRojasDev&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRojasDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
 
-## **💬 Contacto & Redes**
-📺 **YouTube:** [Programador Global](https://www.youtube.com/@ProgramadorGlobal)  
-💼 **LinkedIn:** [Mi Perfil](https://www.linkedin.com/in/tu-perfil-linkedin)  
-🐦 **Twitter:** [Mi Twitter](https://twitter.com/tu-twitter)  
-📷 **Instagram:** [Mi Instagram](https://www.instagram.com/tu-instagram)  
-📩 **Email:** [tucorreo@gmail.com](mailto:tucorreo@gmail.com)  
+## ☕ **Connect with me:**  
+
+<p align="center">
+  <a href="mailto:juanrojasdev@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/juanrojasdev"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/JuanRojasDev"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+  <a href="https://twitter.com/JuanRojasDev"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+  <a href="https://www.youtube.com/@ProgramadorGlobal"><img src="https://img.icons8.com/fluency/48/000000/youtube.png"/></a>
+</p>
 
 ---
 
-## **💡 Dev Quote**
-<hr size="2" width="55%" color="yellow">  
-<h3 align="center">"El código es como el humor. Cuando tienes que explicarlo, es malo." — Cory House</h3>
+## ✅ **Dev Quote:**  
+
+📢 *"El código limpio siempre gana la carrera de la escalabilidad."* 🚀  
 
 ---
 
-🚀 **Siempre en busca de nuevos desafíos y oportunidades para mejorar mis habilidades!** 🚀
+📌 **Instrucciones para usar este código:**  
+1. Copia y pega este código en tu archivo `README.md` de GitHub.  
+2. Cambia `JuanRojasDev` por tu usuario de GitHub en los enlaces de las estadísticas.  
+3. Personaliza los enlaces a tus redes sociales.  
+
+🎯 ¡Con este perfil tendrás una presencia profesional y llamativa en GitHub! 🚀
