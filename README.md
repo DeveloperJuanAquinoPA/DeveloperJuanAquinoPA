@@ -61,9 +61,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</p>
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SE-LAPS&theme=dark&hide_border=false) 
-
-<br><br>
-<h2 align="left">✅Dev Quote:</h2>
-<hr size="2" width="55%" color="yellow">
-<h3 align="center";color:"yellow";>◀" Just imagine how precious it can be to take a risk and have everything turn out well "▶</h3>
-<br>
