@@ -1,43 +1,43 @@
 ![Aditya Vikram Singh Banner](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
 
-## Hi 👋, I'm SENI0R✠KY0JURO✠DEVEL0PER 👩‍💻
+## Hi 👋, I'm D0GO&SENI0RDEVEL0PER 👩‍💻
 
 <p align="center">
-  <a href="https://candida-noronha.web.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="@DeveloperJosueCastañedaSR"/></a>
-	<a href="mailto:blackclover192002@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="@DeveloperJosueCastañedaSR"/></a>
-	<a href="https://github.com/JosueCColcasDesarrollador" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="@DeveloperJosueCastañedaSR"/></a>
-	<a href="https://www.linkedin.com/in/jesús-josué-castañeda-colcas-9a73a5312" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="@DeveloperJosueCastañedaSR"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="@DeveloperJosueCastañedaSRk"/></a>
-	<a href="https://instagram.com/candyyyy__18" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="@DeveloperJosueCastañedaSR"/></a>
-	<a href="https://www.youtube.com/@SENI0R_KY0JURO_DEVEL0PER" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="@DeveloperJosueCastañedaSR"/></a>
+  <a href="https://candida-noronha.web.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="@DeveloperJuanAquinoPA"/></a>
+	<a href="mailto:panthergamingnvidia12@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="@DeveloperJuanAquinoPA"/></a>
+	<a href="https://github.com/DeveloperJuanAquinoPA" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="@DeveloperJuanAquinoPA"/></a>
+	<a href="https://www.linkedin.com/in/jesús-josué-castañeda-colcas-9a73a5312" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="@DeveloperJuanAquinoPA"/></a>
+	<a href="https://www.facebook.com/candida.noronha.77" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="@DeveloperJuanAquinoPA"/></a>
+	<a href="https://instagram.com/candyyyy__18" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="@DeveloperJuanAquinoPA"/></a>
+	<a href="https://www.youtube.com/@D0GO_SENI0RDEVEL0PER" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="@DeveloperJuanAquinoPA"/></a>
 </p>
 
 <h2 align="left">💫 About Me:</h2>
 <hr size="2" width="55%" color="yellow">  
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"> 
 
-- 👨‍💻 &nbsp;Currently I continue studying self-taught.
-- 💡 &nbsp;I like to explore new technologies and develop solutions in an optimal way.
-- 🎓 &nbsp;I am currently delving into creating and coding Games: Unity.
-- 🌱 &nbsp;I am learning more about Web3, Microservices Based Architecture, Machine Learning.
-- ✍️ &nbsp;In my free time, I upload content to my YouTube channel.
-- 💬 &nbsp;Please feel free to contact me with questions or to discuss a project.
-- ✉️ &nbsp;You can email me at blackclover192002@gmail.com! I will try to respond as soon as possible.
-- 📄 &nbsp;Check out my [CV](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me.
-- 😱 &nbsp;I'm open to feedback and suggestions!
+- 👨‍💻 &nbsp;CRight now, I'm still learning on my own.
+- 💡 &nbsp;I like to research new technologies and create optimal solutions.
+- 🎓 &nbsp;Right now, I'm focusing on video game creation and coding: Unreal Engine y Unity.
+- 🌱 &nbsp;I'm learning more about Machine Learning, Web3, and microservices-based architecture.
+- ✍️ &nbsp;While I'm free, I upload videos to my YouTube channel.
+- 💬 &nbsp;Please feel free to contact me if you have any questions or would like to discuss a project.
+- ✉️ &nbsp;Please email me at panthergamingnvidia12@gmail.com! I hope to respond as soon as possible.
+- 📄 &nbsp;Please see my [CV](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more information about me.
+- 😱 &nbsp;I look forward to receiving comments and suggestions!
 <br><br>
 
 ## ☕ Connect with me :
 
 <br>
 
-[![@DeveloperJosueCastañedaSR](https://img.icons8.com/fluency/48/000000/instagram-new.png "@DeveloperJosueCastañedaSR")](https://www.instagram.com/anushkawijegoonawardana97/) 
-[![@DeveloperJosueCastañedaSR](https://img.icons8.com/fluency/48/000000/facebook.png "@DeveloperJosueCastañedaSR")](https://www.facebook.com/AnushkaWijegoonawardana97) 
-[![@DeveloperJosueCastañedaSR](https://img.icons8.com/fluency/48/000000/linkedin.png "@DeveloperJosueCastañedaSR")](https://www.linkedin.com/in/jesús-josué-castañeda-colcas-9a73a5312) 
-[![@DeveloperJosueCastañedaSR](https://img.icons8.com/fluency/48/000000/tiktok.png "@DeveloperJosueCastañedaSR")](https://www.linkedin.com/in/anushkawijegoonawardana97/) 
-[![@SENI0R KY0JURO DEVEL0PER](https://img.icons8.com/fluency/48/000000/youtube.png "@SENI0R KY0JURO DEVEL0PER")](https://www.youtube.com/@SENI0R_KY0JURO_DEVEL0PER) 
-[![@+51918625208](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+51918625208")](tel:+51918625208) 
-[![@blackclover192002@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@blackclover192002@gmail.com")](blackclover192002@gmail.com)
+[![@DeveloperJuanAquinoPA](https://img.icons8.com/fluency/48/000000/instagram-new.png "@DeveloperJuanAquinoPA")](https://www.instagram.com/anushkawijegoonawardana97/) 
+[![@DeveloperJuanAquinoPA](https://img.icons8.com/fluency/48/000000/facebook.png "@DeveloperJuanAquinoPA")](https://www.facebook.com/AnushkaWijegoonawardana97) 
+[![@DeveloperJuanAquinoPA](https://img.icons8.com/fluency/48/000000/linkedin.png "@DeveloperJuanAquinoPA")](https://www.linkedin.com/in/jesús-josué-castañeda-colcas-9a73a5312) 
+[![@DeveloperJuanAquinoPA](https://img.icons8.com/fluency/48/000000/tiktok.png "@DeveloperJuanAquinoPA")](https://www.linkedin.com/in/anushkawijegoonawardana97/) 
+[![@D0GO&SENI0RDEVEL0PER](https://img.icons8.com/fluency/48/000000/youtube.png "@D0GO&SENI0RDEVEL0PER")](https://www.youtube.com/@D0GO_SENI0RDEVEL0PER) 
+[![@+51900306542](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+51900306542")](tel:+51900306542) 
+[![@panthergamingnvidia12@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@panthergamingnvidia12@gmail.com")](panthergamingnvidia12@gmail.com)
 
 <br>
 
@@ -58,6 +58,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
 <br>
-![](https://github-readme-stats.vercel.app/api?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</p>
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SE-LAPS&theme=dark&hide_border=false) 
