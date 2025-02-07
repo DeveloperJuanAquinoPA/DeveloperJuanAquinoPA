@@ -28,27 +28,16 @@
 
 ---
 
-## 🏆 **GitHub Trophies:**  
+<h2 align="left">🌟 GitHub Trophies:</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanRojasDev&theme=radical&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+<hr size="2" width="55%" color="yellow"> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=se-laps&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="se-laps" /></a> </p>
 
----
+<h2 align="left">✍ GitHub Stats:</h2>
+<hr size="2" width="55%" color="yellow"> 
 
-## 📊 **GitHub Stats:**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanRojasDev&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRojasDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
+<br>
 
 ---
 
@@ -68,11 +57,3 @@
 
 📢 *"El código limpio siempre gana la carrera de la escalabilidad."* 🚀  
 
----
-
-📌 **Instrucciones para usar este código:**  
-1. Copia y pega este código en tu archivo `README.md` de GitHub.  
-2. Cambia `JuanRojasDev` por tu usuario de GitHub en los enlaces de las estadísticas.  
-3. Personaliza los enlaces a tus redes sociales.  
-
-🎯 ¡Con este perfil tendrás una presencia profesional y llamativa en GitHub! 🚀
