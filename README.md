@@ -37,7 +37,7 @@
 [![@DeveloperJosueCastañedaSR](https://img.icons8.com/fluency/48/000000/tiktok.png "@DeveloperJosueCastañedaSR")](https://www.linkedin.com/in/anushkawijegoonawardana97/) 
 [![@SENI0R KY0JURO DEVEL0PER](https://img.icons8.com/fluency/48/000000/youtube.png "@SENI0R KY0JURO DEVEL0PER")](https://www.youtube.com/@SENI0R_KY0JURO_DEVEL0PER) 
 [![@+51918625208](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+51918625208")](tel:+51918625208) 
-[![@blackclover192002@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@blackclover192002@gmail.com")](blackclover192002@gmail.com)
+[![@blackclover192002@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@blackclover192002@gmail.com")](deleoperkuscadeleopekusca@gmail.com)
 
 <br>
 
