@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/Portada.png)
+![Aditya Vikram Singh Banner](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
 
 ## Hi 👋, I'm SENI0R✠KY0JURO✠DEVEL0PER 👩‍💻
 
