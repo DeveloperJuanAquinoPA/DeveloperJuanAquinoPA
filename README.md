@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </div>
 
-<img src="https://Logo.png
 <div align="center">
   <img src="https://img.shields.io/badge/Age-20-2f6690" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-3a7ca5" />
