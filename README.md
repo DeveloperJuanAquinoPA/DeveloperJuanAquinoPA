@@ -52,7 +52,7 @@
 📌 **[Aplicación React con API REST](https://github.com/TU-USUARIO/Proyecto2) - Frontend escalable con Hooks y Redux.**  
 📌 **[Plataforma de eCommerce con PHP y MySQL](https://github.com/TU-USUARIO/Proyecto3) - Optimizada para alto tráfico.**  
 
-> 📂 **Más proyectos disponibles en mi GitHub: [GitHub.com/TU-USUARIO](https://github.com/TU-USUARIO)**  
+> 📂 **Más proyectos disponibles en mi GitHub: [GitHub.com/DeveloperJuanAquinoPA](https://github.com/DeveloperJuanAquinoPA)**  
 
 ---
 
