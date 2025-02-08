@@ -4,8 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </div>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/images-38de5.appspot.com/o/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).png?alt=media&token=36deaceb-5304-4c7e-9759-2fdeb6f0dd4f">
-
+<img src="https://Logo.png
 <div align="center">
   <img src="https://img.shields.io/badge/Age-20-2f6690" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-3a7ca5" />
