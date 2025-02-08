@@ -1,93 +1,77 @@
-![Juan Rojas Banner](https://github.com/JuanRojasDev/JuanRojasDev/blob/main/banner.png)
+<div align="center">
+  <h1>👋 Hi, I'm <a href="https://juanrojas.vercel.app">Juan Rojas</a>! 🚀</h1>
+  <h3>💻 Full Stack Developer | PHP | React Native | Laravel | Node.js</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</div>
 
-<h1 align="center">  
-  👋 ¡Hola, soy **Juan Rojas**! 🚀  
-  <br>  
-  💻 **Desarrollador Full Stack | Apasionado por la Tecnología**  
-</h1>
+<img src="https://firebasestorage.googleapis.com/v0/b/images-38de5.appspot.com/o/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).png?alt=media&token=36deaceb-5304-4c7e-9759-2fdeb6f0dd4f">
 
-<p align="center">
-  <a href="https://github.com/JuanRojasDev" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="mailto:tuemail@example.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/juanrojasdev" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@ProgramadorGlobal" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
-</p>
-
----
-
-## 🚀 **Sobre mí**  
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">  
-
-- 🔥 **Desarrollador Full Stack** con experiencia en múltiples tecnologías y frameworks.  
-- 🎯 Apasionado por la **arquitectura de software, microservicios, inteligencia artificial y Web3**.  
-- 📚 Aprendiendo continuamente para mejorar mis habilidades y ofrecer **soluciones innovadoras**.  
-- 💡 Fomentando la educación tecnológica a través de mi canal de YouTube **[Programador Global](https://www.youtube.com/@ProgramadorGlobal)**.  
-- 🎨 Amante del diseño UX/UI y de la creación de **experiencias digitales impactantes**.  
-- 🛠 **Especialidades:** Desarrollo web, backend, frontend, bases de datos, APIs, cloud computing y más.  
-- 💬 Disponible para **colaboraciones y proyectos desafiantes**.  
+<div align="center">
+  <img src="https://img.shields.io/badge/Age-20-2f6690" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-3a7ca5" />
+  <img src="https://komarev.com/ghpvc/?username=JuanRojasDev&label=Profile%20views&color=2f6690&style=flat" />
+  <img src="https://img.shields.io/github/followers/JuanRojasDev?style=social" />
+  <img src="https://img.shields.io/github/stars/JuanRojasDev?style=social" />
+</div>
 
 ---
 
-## 💻 **Tecnologías y Herramientas**  
+## 🚀 **About Me**  
+📌 **Full Stack Developer** with experience in web and mobile development.  
+📌 Passionate about **PHP, React Native, Laravel, Node.js, and more**.  
+📌 Learning **DevOps, Artificial Intelligence, and Cybersecurity**.  
+📌 Sharing knowledge on **[Programador Global](https://www.youtube.com/@ProgramadorGlobal)**.  
+📌 Always looking for **new opportunities and challenges**.  
+
+---
+
+## 💻 **Technologies & Tools**  
 
 ### 🌐 **Frontend**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass&theme=dark"/>
 
 ### 🔧 **Backend**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,django,ruby,java,spring&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,django,ruby,java,spring&theme=dark"/>
 
-### 🛢️ **Bases de Datos**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis&theme=dark"/>
-</p>
+### 🛢️ **Databases**  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis&theme=dark"/>
+
+### 📱 **Mobile Development**  
+<img src="https://skillicons.dev/icons?i=react,flutter,kotlin,java,androidstudio&theme=dark"/>
 
 ### ☁️ **Cloud & DevOps**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github,githubactions&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github,githubactions&theme=dark"/>
 
 ---
 
-## 🌟 **Experiencia y Proyectos**  
-📌 **Proyecto 1:** [E-commerce con Laravel y React](https://github.com/JuanRojasDev/ecommerce)  
-📌 **Proyecto 2:** [Aplicación de Chat en Tiempo Real con Node.js y WebSockets](https://github.com/JuanRojasDev/chat-app)  
-📌 **Proyecto 3:** [Plataforma de Cursos Online con Next.js y Firebase](https://github.com/JuanRojasDev/cursos-online)  
-📌 **Proyecto 4:** [Dashboard de Análisis de Datos con Python y Django](https://github.com/JuanRojasDev/data-dashboard)  
-
-🎯 **Siempre buscando nuevos desafíos y oportunidades para mejorar mis habilidades.**  
+## 🌟 **Highlighted Projects**  
+📌 **E-commerce Laravel + React** → [Repository](https://github.com/JuanRojasDev/ecommerce)  
+📌 **Real-time Chat (Node.js + WebSockets)** → [Repository](https://github.com/JuanRojasDev/chat-app)  
+📌 **Data Dashboard (Django + Python)** → [Repository](https://github.com/JuanRojasDev/data-dashboard)  
 
 ---
 
-## 📊 **Estadísticas de GitHub**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanRojasDev&theme=radical&no-frame=true&no-bg=false&margin-w=6"/>
-</p>
+## 📊 **GitHub Stats**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRojasDev&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</div>
 
 ---
 
-## 🔥 **Certificaciones y Logros**  
-✅ **Desarrollador Web Full Stack** - [Udemy | 2024](https://udemy.com)  
-✅ **AWS Cloud Practitioner** - [Amazon Web Services | 2024](https://aws.amazon.com)  
-✅ **Certificación en React.js Avanzado** - [Platzi | 2024](https://platzi.com)  
-
-📜 **Siempre en busca de más certificaciones y conocimientos.**  
+## 📜 **Certifications**  
+✅ **Full Stack Web Developer** - Udemy  
+✅ **AWS Cloud Practitioner** - Amazon Web Services  
+✅ **Advanced React.js** - Platzi  
 
 ---
 
-## 📢 **Conéctate conmigo**  
-📧 **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
+## 📢 **Contact Me**  
+📧 **Email:** [rojassalinasjuanandres@gmail.com](mailto:rojassalinasjuanandres@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/juanrojasdev](https://www.linkedin.com/in/juanrojasdev)  
 📺 **YouTube:** [Programador Global](https://www.youtube.com/@ProgramadorGlobal)  
 🌐 **GitHub:** [JuanRojasDev](https://github.com/JuanRojasDev)  
 
 ---
 
-_🔥 "Escribe código como si la persona que lo mantendrá fuera un psicópata que sabe dónde vives." 🔥_
+🔥 _"Well-written code is like poetry: clean, elegant, and efficient."_ 🔥
