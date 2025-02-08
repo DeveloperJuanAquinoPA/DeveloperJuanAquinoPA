@@ -48,9 +48,9 @@
 
 ## 🚀 Proyectos Destacados  
 
-📌 **[Sistema de Autenticación en Laravel](https://github.com/TU-USUARIO/Proyecto1) - Seguridad avanzada con JWT y OAuth2.**  
-📌 **[Aplicación React con API REST](https://github.com/TU-USUARIO/Proyecto2) - Frontend escalable con Hooks y Redux.**  
-📌 **[Plataforma de eCommerce con PHP y MySQL](https://github.com/TU-USUARIO/Proyecto3) - Optimizada para alto tráfico.**  
+📌 **[Sistema de Autenticación en Laravel](https://github.com/DeveloperJuanAquinoPA/Proyecto1) - Seguridad avanzada con JWT y OAuth2.**  
+📌 **[Aplicación React con API REST](https://github.com/DeveloperJuanAquinoPA/Proyecto2) - Frontend escalable con Hooks y Redux.**  
+📌 **[Plataforma de eCommerce con PHP y MySQL](https://github.com/DeveloperJuanAquinoPA/Proyecto3) - Optimizada para alto tráfico.**  
 
 > 📂 **Más proyectos disponibles en mi GitHub: [GitHub.com/DeveloperJuanAquinoPA](https://github.com/DeveloperJuanAquinoPA)**  
 
@@ -59,8 +59,8 @@
 ## 📊 Estadísticas de GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJuanAquinoPA&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperJuanAquinoPA&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
