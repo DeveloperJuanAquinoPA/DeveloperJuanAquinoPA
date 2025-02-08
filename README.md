@@ -1,3 +1,4 @@
+# 🌟 DeveloperJuanRojas
 ![Programador Global](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
 
 <h1 align="center">👨‍💻 Juan Rojas | Desarrollador Full Stack 🌍</h1>
