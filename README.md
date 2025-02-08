@@ -5,7 +5,7 @@
 <p align="center">
   🚀 Desarrollador especializado en **PHP, React, Laravel y Node.js**  
   🎯 Apasionado por la **arquitectura de software y el desarrollo web**  
-  💼 **Disponible para oportunidades laborales remotas e internacionales**  
+  💼 Disponible para oportunidades laborales remotas e internacionales**  
 </p>
 
 ---
