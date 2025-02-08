@@ -1,90 +1,50 @@
-# 🌟 DeveloperJuanRojas
-![Programador Global](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
+![Juan Rojas Banner](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
 
-<h1 align="center">👨‍💻 Juan Rojas | Desarrollador Full Stack 🌍</h1>
+## 👋 Hola, soy **Juan Rojas** | 🚀 Desarrollador Full Stack  
 
 <p align="center">
-  🚀 Desarrollador especializado en PHP, React, Laravel y Node.js
-  🎯 Apasionado por la arquitectura de software y el desarrollo web  
-  💼 Disponible para oportunidades laborales remotas e internacionales
+  <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="mailto:tuemail@example.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/juanrojasdev" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@ProgramadorGlobal" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
 </p>
 
 ---
 
-## 📌 Sobre Mí  
-
+## 💡 **Sobre mí**  
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">  
 
-- 👨‍💻 **Desarrollador Full Stack con experiencia en proyectos escalables y de alto rendimiento.**  
-- 💡 **Especializado en tecnologías modernas como PHP, React, Node.js y Laravel.**  
-- 🌍 **Busco oportunidades remotas con empresas innovadoras en el sector tecnológico.**  
-- 🚀 **Experiencia en arquitectura de software, APIs REST y optimización de bases de datos.**  
-- 🔍 **En constante aprendizaje sobre IA, ciberseguridad y mejores prácticas en desarrollo web.**  
-- 📩 **Abierto a colaboraciones y propuestas de trabajo. Contáctame en cualquier momento.**  
+- 👨‍💻 Actualmente, me especializo en **Desarrollo Full Stack** con tecnologías modernas.  
+- 🌱 Aprendiendo y perfeccionando **React, Node.js, PHP, Laravel, Python, AWS, Docker y más**.  
+- 🎓 Apasionado por la **arquitectura de software, microservicios y la inteligencia artificial**.  
+- 📌 Subo contenido educativo en mi canal de **YouTube**: [Programador Global](https://www.youtube.com/@ProgramadorGlobal).  
+- 💬 ¡Siempre abierto a colaborar en proyectos innovadores!  
 
 ---
 
-## 📞 Contacto Profesional  
-
+## 🔧 **Tecnologías y Herramientas**  
 <p align="center">
-  <a href="mailto:TU-EMAIL" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a> 
-  <a href="https://github.com/TU-USUARIO" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/></a> 
-  <a href="https://wa.me/TU-NUMERO" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="WhatsApp"/></a> 
-  <a href="https://www.youtube.com/@ProgramadorGlobal" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/youtube.png" alt="YouTube"/></a>  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,python,django,mysql,mongodb,postgres,git,github,docker,aws,linux,vscode,figma&theme=dark&perline=10" alt="Skill Icons"/>
 </p>
 
 ---
 
-## 💼 Tecnologías y Habilidades  
+## 🏆 **Estadísticas de GitHub**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&show_icons=true&theme=radical&hide_border=true"/>
+</p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,react,js,html,css,laravel,nodejs,mysql,git,github,bootstrap,tailwind,python,linux,visualstudio,vscode,figma,docker,aws,typescript&theme=dark&perline=8" alt="Skill Icons" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanRojasDev&theme=radical&no-frame=true&no-bg=false&margin-w=6"/>
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados  
-
-📌 **[Sistema de Autenticación en Laravel](https://github.com/DeveloperJuanAquinoPA/Proyecto1) - Seguridad avanzada con JWT y OAuth2.**  
-📌 **[Aplicación React con API REST](https://github.com/DeveloperJuanAquinoPA/Proyecto2) - Frontend escalable con Hooks y Redux.**  
-📌 **[Plataforma de eCommerce con PHP y MySQL](https://github.com/DeveloperJuanAquinoPA/Proyecto3) - Optimizada para alto tráfico.**  
-
-> 📂 **Más proyectos disponibles en mi GitHub: [GitHub.com/DeveloperJuanAquinoPA](https://github.com/DeveloperJuanAquinoPA)**  
+## ☕ **Conéctate conmigo**  
+📧 **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
+💼 **LinkedIn:** [linkedin.com/in/juanrojasdev](https://www.linkedin.com/in/juanrojasdev)  
+📺 **YouTube:** [Programador Global](https://www.youtube.com/@ProgramadorGlobal)  
+🌐 **GitHub:** [JuanRojasDev](https://github.com/JuanRojasDev)  
 
 ---
-
-
-## 🏆 Logros y Certificaciones  
-
-🎓 **[Certificado en Desarrollo Full Stack - Udemy](https://udemy.com/certificado-ejemplo)**  
-🎓 **[Certificación en React Avanzado - Coursera](https://coursera.com/certificado-ejemplo)**  
-🎓 **[Certificado AWS Cloud Practitioner](https://aws.amazon.com/certificado-ejemplo)**  
-
-📌 **Estoy en constante capacitación y formación en tecnologías emergentes.**  
-
----
-
-## 📢 ¿Por qué contratarme?  
-
-✅ **Experiencia en desarrollo Full Stack con tecnologías modernas.**  
-✅ **Capacidad para liderar proyectos y optimizar arquitecturas.**  
-✅ **Habilidades en APIs REST, microservicios y bases de datos escalables.**  
-✅ **Compromiso con la calidad, buenas prácticas y desarrollo eficiente.**  
-✅ **Disponible para trabajos remotos y con amplia flexibilidad horaria.**  
-
-📩 **📞 ¿Interesado en colaborar conmigo? Escríbeme sin compromiso.**  
-
----
-
-## 🚀 Conéctate en redes sociales  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a> 
-  <a href="https://github.com/TU-USUARIO" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/></a> 
-  <a href="https://www.instagram.com/TU-INSTAGRAM" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/></a>  
-  <a href="https://wa.me/TU-NUMERO" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="WhatsApp"/></a> 
-  <a href="mailto:TU-EMAIL" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/></a>
-</p>
+_"Código limpio, software escalable y pasión por el desarrollo."_
