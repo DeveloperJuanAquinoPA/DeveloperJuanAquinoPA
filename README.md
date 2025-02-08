@@ -56,14 +56,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJuanAquinoPA&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperJuanAquinoPA&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 ## 🏆 Logros y Certificaciones  
 
