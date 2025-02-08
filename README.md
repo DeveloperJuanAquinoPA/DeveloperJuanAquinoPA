@@ -6,6 +6,9 @@
 </div>
 
 <div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/images-38de5.appspot.com/o/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).png?alt=media&token=36deaceb-5304-4c7e-9759-2fdeb6f0dd4f" alt="Juan Rojas Banner" width="100%"/>
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Age-20-2f6690" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-3a7ca5" />
   <img src="https://komarev.com/ghpvc/?username=JuanRojasDev&label=Profile%20views&color=2f6690&style=flat" />
