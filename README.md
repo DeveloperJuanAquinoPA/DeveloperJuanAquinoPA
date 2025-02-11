@@ -1,7 +1,7 @@
 ![Juan Rojas Banner](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
 
-<h1 align="center">👨‍💻 Juan Rojas (D0GO & SENI0R DEVELOPER) 🚀</h1>
-<h3 align="center">🔹 Full Stack | Mobile Developer | Cybersecurity Enthusiast 🔹</h3>
+<h1 align="center">Hi 👋, I'm Juan Rojas (D0GO & SENI0R DEVELOPER) 👩‍💻</h1>
+<h3 align="center">🚀 Full Stack & Mobile Developer | Flutter | React Native | Cybersecurity 🚀</h3>
 
 <p align="center">
   <a href="mailto:panthergamingnvidia12@gmail.com" target="_blank">
@@ -21,41 +21,48 @@
 ---
 
 ## 🚀 About Me  
-<p align="center">
-  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"> 
-</p>
+<hr size="2" width="55%" color="yellow">  
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"> 
 
-- 🏆 **Senior Developer** especializado en **Flutter, React Native, Laravel y Node.js**  
-- 🛡️ **Cybersecurity Enthusiast** con experiencia en **PenTesting y Ethical Hacking**  
-- 🌍 **Tech Stack:** Full Stack Web & Mobile, Web3, Cloud Computing  
-- 📹 **YouTube Content Creator:** Tutoriales sobre desarrollo y seguridad informática  
-- 📧 **Contacto:** panthergamingnvidia12@gmail.com  
+- 🔥 **Expert in:** Mobile & Web Development (Flutter, React Native, Laravel, Node.js)  
+- 🛡️ **Cybersecurity Enthusiast:** Ethical Hacking, Penetration Testing, Network Security  
+- 🎓 **Currently Learning:** AI, Web3, and Advanced Cloud Computing  
+- 🌟 **Passionate About:** Creating robust, scalable, and efficient digital solutions  
+- 📹 **Content Creator:** Sharing knowledge on [YouTube](https://www.youtube.com/@D0GO_SENI0RDEVEL0PER)  
+- 📩 **Reach me at:** panthergamingnvidia12@gmail.com  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,js,ts,dart,php,laravel,java,kotlin,swift,cpp,cs,go,mysql,sqlite,mongodb,firebase,graphql,django,docker,kubernetes,linux,git,github,aws,azure,gcp,figma,postman,vscode,androidstudio&theme=dark&perline=10" alt="Tech Stack"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,php,laravel,nodejs,python,java,kotlin,swift,cpp,cs,go,mysql,sqlite,mongodb,firebase,django,docker,kubernetes,linux,git,github,aws,azure,gcp,figma,postman,vscode,androidstudio,unrealengine,tailwind&theme=dark&perline=10" alt="Skill Icons" />
+  </a>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
+<hr size="2" width="55%" color="yellow">  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperJuanAquinoPA&theme=radical&no-frame=true&margin-w=20&row=2&column=4" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DeveloperJuanAquinoPA&theme=onedark&no-frame=true&margin-w=20&row=2&column=4" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
+<hr size="2" width="55%" color="yellow">  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJuanAquinoPA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJuanAquinoPA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&custom_title=🚀 GitHub Stats 🚀" width="50%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperJuanAquinoPA&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 
 ---
 
-## 📈 Top Languages  
+## 📈 Most Used Languages  
+<hr size="2" width="55%" color="yellow">  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperJuanAquinoPA&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="50%"/>
 </p>
@@ -63,20 +70,17 @@
 ---
 
 ## 🔥 Contribution Activity  
+<hr size="2" width="55%" color="yellow">  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperJuanAquinoPA&theme=github-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperJuanAquinoPA&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Latest GitHub Activity  
+<hr size="2" width="55%" color="yellow">  
 <p align="center">
-  <a href="https://github.com/DeveloperJuanAquinoPA/proyecto-flutter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperJuanAquinoPA&repo=proyecto-flutter&theme=tokyonight&hide_border=true" width="45%"/>
-  </a>
-  <a href="https://github.com/DeveloperJuanAquinoPA/react-native-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperJuanAquinoPA&repo=react-native-app&theme=tokyonight&hide_border=true" width="45%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperJuanAquinoPA&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -88,7 +92,7 @@
 
 ---
 
-## 💬 Connect with Me  
+## 💬 Connect with me  
 <p align="center">
   <a href="https://www.instagram.com/tu_perfil" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
