@@ -56,8 +56,9 @@
 <hr size="2" width="55%" color="yellow">  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJuanAquinoPA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&custom_title=🚀 GitHub Stats 🚀" width="50%"/>
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&count_private=true&hide_border=false)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperJuanAquinoPA&theme=tokyonight&hide_border=true" width="50%"/>
+</p>
+
 ---
 
 ## 📈 Most Used Languages  
