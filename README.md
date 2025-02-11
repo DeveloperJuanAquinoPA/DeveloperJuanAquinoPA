@@ -57,7 +57,7 @@
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperJuanAquinoPA&theme=algolia&row=2&column=4&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperJuanAquinoPA&theme=algolia&row=2&column=4&no-frame=true&margin-w=100"/>
 </p>
 
 ---
