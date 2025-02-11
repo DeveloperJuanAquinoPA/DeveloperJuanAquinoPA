@@ -49,7 +49,6 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJuanAquinoPA&show_icons=true&theme=algolia&count_private=true&hide_border=true&include_all_commits=true&custom_title=🔥 GitHub Insights 🔥" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperJuanAquinoPA&theme=algolia&hide_border=true" width="49%"/>
 </p>
 
