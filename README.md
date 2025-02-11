@@ -1,79 +1,50 @@
-<div align="center">
-  <h1>👋 Hi, I'm <a href="https://juanrojas.vercel.app">Juan Rojas</a>! 🚀</h1>
-  <h3>💻 Full Stack Developer | PHP | React Native | Laravel | Node.js</h3>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</div>
+# 🚀 Juan Rojas | Desarrollador Flutter 🏗️  
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/main/LogoPT.png" alt="Juan Rojas Banner" width="100%"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JuanRojas-blue?style=flat&logo=linkedin)](https://linkedin.com/in/JuanRojasDev)  
+[![GitHub](https://img.shields.io/github/followers/JuanRojasDev?style=social)](https://github.com/JuanRojasDev)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-juanrojas.dev-ff69b4?style=flat&logo=firefox)](https://juanrojas.dev)  
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Age-20-2f6690" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-3a7ca5" />
-  <img src="https://komarev.com/ghpvc/?username=JuanRojasDev&label=Profile%20views&color=2f6690&style=flat" />
-  <img src="https://img.shields.io/github/followers/JuanRojasDev?style=social" />
-  <img src="https://img.shields.io/github/stars/JuanRojasDev?style=social" />
-</div>
+### 💡 Sobre mí  
+👋 ¡Hola! Soy Juan Rojas, un **Desarrollador Flutter** con **7 años de experiencia** creando apps móviles increíbles. Me encanta desarrollar **interfaces atractivas, optimizar el rendimiento y trabajar con tecnología de vanguardia**.  
+
+🚀 **¿Qué hago?**  
+✅ Desarrollo apps móviles con **Flutter & Dart**  
+✅ Implemento **arquitectura Clean (BLoC, Provider, Riverpod)**  
+✅ Trabajo con **Firebase, APIs REST, GraphQL y bases de datos SQL/NoSQL**  
+✅ Apasionado por **UI/UX y optimización de rendimiento**  
 
 ---
 
-## 🚀 **About Me**  
-📌 **Full Stack Developer** with experience in web and mobile development.  
-📌 Passionate about **PHP, React Native, Laravel, Node.js, and more**.  
-📌 Learning **DevOps, Artificial Intelligence, and Cybersecurity**.  
-📌 Sharing knowledge on **[Programador Global](https://www.youtube.com/@ProgramadorGlobal)**.  
-📌 Always looking for **new opportunities and challenges**.  
+## 🏆 **Mis Estadísticas en GitHub**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanRojasDev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRojasDev&layout=compact&theme=radical)  
 
 ---
 
-## 💻 **Technologies & Tools**  
+## 🔥 **Proyectos Destacados**  
+### 📱 [FinPay](https://github.com/JuanRojasDev/FinPay) – App de pagos con Flutter & Firebase  
+📌 **Stack:** Flutter, Firebase, Stripe, Cloud Functions  
 
-### 🌐 **Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass&theme=dark"/>
+### 📱 [FoodExpress](https://github.com/JuanRojasDev/FoodExpress) – App de delivery con mapas y geolocalización  
+📌 **Stack:** Flutter, Google Maps API, Firebase  
 
-### 🔧 **Backend**  
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,django,ruby,java,spring&theme=dark"/>
-
-### 🛢️ **Databases**  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis&theme=dark"/>
-
-### 📱 **Mobile Development**  
-<img src="https://skillicons.dev/icons?i=react,flutter,kotlin,java,androidstudio&theme=dark"/>
-
-### ☁️ **Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github,githubactions&theme=dark"/>
+### 📱 [TaskManager](https://github.com/JuanRojasDev/TaskManager) – Gestor de tareas con autenticación y notificaciones  
+📌 **Stack:** Flutter, Firebase Auth, Firestore  
 
 ---
 
-## 🌟 **Highlighted Projects**  
-📌 **E-commerce Laravel + React** → [Repository](https://github.com/JuanRojasDev/ecommerce)  
-📌 **Real-time Chat (Node.js + WebSockets)** → [Repository](https://github.com/JuanRojasDev/chat-app)  
-📌 **Data Dashboard (Django + Python)** → [Repository](https://github.com/JuanRojasDev/data-dashboard)  
+## 🎯 **Tecnologías & Herramientas**  
+🌐 **Lenguajes:** ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
+📲 **Frameworks:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+💾 **Bases de Datos:** ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+📡 **APIs:** ![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=postman&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
+🛠 **Herramientas:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
 ---
 
-## 📊 **GitHub Stats**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRojasDev&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</div>
+## 📬 **Contacto**  
+📧 **Email:** juan.rojas.dev@example.com  
+🔗 **LinkedIn:** [linkedin.com/in/JuanRojasDev](https://linkedin.com/in/JuanRojasDev)  
+🌍 **Portfolio:** [juanrojas.dev](https://juanrojas.dev)  
 
----
-
-## 📜 **Certifications**  
-✅ **Full Stack Web Developer** - Udemy  
-✅ **AWS Cloud Practitioner** - Amazon Web Services  
-✅ **Advanced React.js** - Platzi  
-
----
-
-## 📢 **Contact Me**  
-📧 **Email:** [rojassalinasjuanandres@gmail.com](mailto:rojassalinasjuanandres@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/juanrojasdev](https://www.linkedin.com/in/juanrojasdev)  
-📺 **YouTube:** [Programador Global](https://www.youtube.com/@ProgramadorGlobal)  
-🌐 **GitHub:** [JuanRojasDev](https://github.com/JuanRojasDev)  
-
----
-
-🔥 _"Well-written code is like poetry: clean, elegant, and efficient."_ 🔥
+🚀 **¡Estoy abierto a nuevas oportunidades en empresas internacionales!** 🌎
