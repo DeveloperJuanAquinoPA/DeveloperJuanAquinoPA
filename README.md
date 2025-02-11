@@ -1,4 +1,4 @@
-Rojas Banner](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
+![Juan Rojas Banner](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
 
 <h1 align="center">🚀 Juan Rojas | Senior Full-Stack & Cybersecurity Developer</h1>
 
@@ -83,3 +83,4 @@ Rojas Banner](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blo
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeveloperJuanAquinoPA&label=Profile%20Views&color=blue&style=flat"/>
+</p>
