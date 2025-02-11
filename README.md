@@ -50,6 +50,7 @@
 <hr size="2" width="55%" color="yellow">  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DeveloperJuanAquinoPA&theme=algolia&row=2&column=4&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
   </a>
 </p>
 
