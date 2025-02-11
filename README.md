@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:panthergamingnvidia12@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
   <a href="https://github.com/DeveloperJuanAquinoPA" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/jesús-josué-castañeda-colcas-9a73a5312" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/tu_perfil" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@D0GO_SENI0RDEVEL0PER" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
 </p>
 
@@ -15,15 +15,14 @@
 <hr size="2" width="55%" color="yellow">  
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"> 
 
-- 👨‍💻 &nbsp;Currently learning and improving my skills in **Flutter & React Native**.  
-- 💡 &nbsp;Passionate about **software development, mobile apps, and cybersecurity**.  
-- 🎓 &nbsp;Exploring **Machine Learning, Web3, and microservices**.  
-- 🌱 &nbsp;Learning **backend technologies, cloud computing, and AI**.  
-- ✍️ &nbsp;Creating **open-source projects** and sharing knowledge on YouTube.  
-- 💬 &nbsp;Feel free to **contact me** for projects or collaborations.  
-- ✉️ &nbsp;Reach me at **panthergamingnvidia12@gmail.com**.  
-- 📄 &nbsp;Check out my **[CV](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp)**.  
-- 🚀 &nbsp;Always looking for **new challenges & opportunities**.  
+- 👨‍💻 &nbsp;Currently mastering **Flutter & React Native** for high-performance apps.  
+- 💡 &nbsp;Passionate about **mobile development, cybersecurity, and AI**.  
+- 🎓 &nbsp;Exploring **Machine Learning, Blockchain, and cloud architectures**.  
+- 🌱 &nbsp;Improving backend skills in **Node.js, Laravel, and Python**.  
+- ✍️ &nbsp;Creating **open-source projects** and sharing knowledge on **YouTube**.  
+- 💬 &nbsp;Let's collaborate on **cutting-edge software solutions**.  
+- ✉️ &nbsp;Contact me: **panthergamingnvidia12@gmail.com**.  
+- 📄 &nbsp;Check my **[CV](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp)**.  
 
 ---
 
@@ -47,17 +46,50 @@
 
 ---
 
-## 🌟 GitHub Trophies  
+## 🏆 GitHub Trophies  
 <hr size="2" width="55%" color="yellow">  
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DeveloperJuanAquinoPA&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=DeveloperJuanAquinoPA&theme=algolia&row=2&column=4&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
   </a>
 </p>
 
 ---
 
-## ✍ GitHub Stats  
+## 📊 GitHub Stats  
 <hr size="2" width="55%" color="yellow">  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJuanAquinoPA&show_icons=true&theme=algolia&count_private=true&hide_border=true&include_all_commits=true&custom_title=🔥 My GitHub Stats 🔥" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperJuanAquinoPA&theme=algolia&hide_border=true" width="50%"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperJuanAquinoPA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## 📈 Most Used Languages  
+<hr size="2" width="55%" color="yellow">  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperJuanAquinoPA&layout=compact&theme=algolia&hide_border=true&langs_count=10" width="50%"/>
+</p>
+
+---
+
+## 🚀 Contribution Graph  
+<hr size="2" width="55%" color="yellow">  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperJuanAquinoPA&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## ⚡ Recent GitHub Activity  
+<hr size="2" width="55%" color="yellow">  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperJuanAquinoPA&theme=github-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🎯 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeveloperJuanAquinoPA&label=Profile%20Views&color=blue&style=flat"/>
+</p>
