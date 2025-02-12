@@ -46,14 +46,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperJuanAquinoPA&theme=algolia&hide_border=true" width="49%"/>
-</p>
-
----
-
 ## 🏆 Achievements  
 
 <p align="center">
