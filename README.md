@@ -1,30 +1,64 @@
-# 👨‍💻 Juan Rojas | Full Stack Developer 🚀
+# 🚀 Juan Rojas | Full Stack Developer | Tech Enthusiast 💻
 
-¡Hola! Soy Juan Rojas, un apasionado Desarrollador Full Stack con experiencia en tecnologías modernas como **React, Laravel, Flutter, Ciberseguridad y más**. Siempre en busca de nuevos desafíos y oportunidades para crear soluciones innovadoras. 💡
+¡Bienvenido a mi perfil de GitHub! Soy **Juan Rojas**, un **Desarrollador Full Stack** apasionado por la tecnología y la programación. Me especializo en el desarrollo de aplicaciones **web, móviles y backend**, con experiencia en **React, Laravel, Flutter, Ciberseguridad y más**.  
 
----
-
-## 🚀 Tecnologías y Habilidades:
-- **Frontend:** React, Next.js, Vite, HTML, CSS, JavaScript, TypeScript
-- **Backend:** Laravel, Node.js, Express, PHP, MySQL, PostgreSQL
-- **Mobile:** Flutter, React Native
-- **Ciberseguridad:** Análisis de vulnerabilidades, OWASP, Ethical Hacking
-- **DevOps:** Docker, CI/CD, GitHub Actions
-- **Otros:** Python, C#, API REST, Firebase
+Siempre estoy explorando nuevas tecnologías y frameworks para mejorar mis habilidades y aportar soluciones innovadoras. Mi objetivo es desarrollar software eficiente, escalable y de alto rendimiento. 🚀  
 
 ---
 
-## 📈 Estadísticas de GitHub:
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MessigD&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MessigD&layout=compact&theme=radical)
+## 🛠️ Tecnologías y Herramientas que Uso:
+### 🌐 **Frontend**
+- React.js, Next.js, Vite, TypeScript
+- Redux, Zustand, TailwindCSS, Bootstrap
+- HTML5, CSS3, JavaScript (ES6+)
+
+### 🔧 **Backend**
+- Laravel, Node.js, Express.js, PHP, Python, C#
+- MySQL, PostgreSQL, Firebase, MongoDB
+- API REST, GraphQL, WebSockets
+
+### 📱 **Desarrollo Móvil**
+- Flutter, Dart, React Native
+
+### 🛡️ **Ciberseguridad**
+- Ethical Hacking, OWASP, Análisis de Vulnerabilidades
+- Hardening de Servidores, Seguridad en APIs
+
+### ☁️ **DevOps & Cloud**
+- Docker, CI/CD, GitHub Actions
+- AWS, Firebase, Vercel, Netlify
 
 ---
 
-## 🌎 Conéctate conmigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JuanRojas-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
-[![YouTube](https://img.shields.io/badge/YouTube-Crea%20Tu%20Web%20Desde%20Cero-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/CreaTuWebDesdeCero)
-[![Twitter](https://img.shields.io/badge/Twitter-MESSIG⚡D-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/MESSIGD)
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MessigD&show_icons=true&theme=radical" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MessigD&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MessigD&layout=compact&theme=radical" width="50%" />
+</div>
 
 ---
 
-⭐ ¡No olvides seguirme y explorar mis repositorios! 🚀
+## 📌 Mis Proyectos Destacados:
+- **🔗 [FrontendX](https://github.com/MessigD/frontendx)** → Recursos y proyectos para desarrolladores frontend.
+- **📱 [FlutterApp](https://github.com/MessigD/flutterapp)** → Aplicación móvil desarrollada con Flutter y Firebase.
+- **🛡️ [CyberSec Toolkit](https://github.com/MessigD/cybersec-toolkit)** → Herramientas y scripts de ciberseguridad.
+
+---
+
+## 🚀 Roadmap de Aprendizaje
+Estoy en constante aprendizaje y actualmente me estoy enfocando en:
+✅ **Ciberseguridad Avanzada**  
+✅ **Desarrollo Full Stack con Laravel y React**  
+✅ **Flutter para Aplicaciones Móviles**  
+✅ **Automatización con Python y DevOps**  
+
+---
+
+## 📣 Conéctate conmigo:
+📌 **LinkedIn:** [Juan Rojas](https://www.linkedin.com/in/tu-perfil)  
+📌 **YouTube:** [Crea Tu Web Desde Cero](https://www.youtube.com/c/CreaTuWebDesdeCero)  
+📌 **Twitter/X:** [@MESSIGD](https://twitter.com/MESSIGD)  
+📌 **GitHub:** [MessigD](https://github.com/MessigD)  
+
+⭐ **¡No olvides seguirme y explorar mis repositorios!**
