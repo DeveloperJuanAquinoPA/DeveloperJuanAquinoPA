@@ -1,85 +1,64 @@
 ![Juan Rojas | Software Engineer](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
 
-<h1 align="center"> 🚀 Juan Rojas | Software Engineer 🚀 </h1>
+## 👨‍💻 Juan Rojas | Software Engineer  
 
 <p align="center">
-  <a href="mailto:juanrojas.dev@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/></a>
-  <a href="https://github.com/MessigD" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/juanrojas" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@MessigD" target="_blank"><img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/></a>
+  <a href="mailto:juanrojas.dev@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
+  <a href="https://github.com/MessigD" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/juanrojas-dev" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/MessigD" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://www.youtube.com/@MessigD" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
 </p>
 
 ---
 
-## 💡 Sobre mí  
-<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 💡 Sobre Mí  
 
-✔️ **Ingeniero de Software Full Stack** con una mentalidad innovadora y pasión por la tecnología.  
-✔️ **Experiencia en desarrollo web y móvil** con tecnologías modernas como **React, Flutter, Laravel, Node.js y más.**  
-✔️ **Experto en arquitectura de software**, desarrollo escalable y optimización de sistemas.  
-✔️ **Apasionado por la ciberseguridad**, DevOps y automatización de procesos.  
-✔️ **Creador de contenido en YouTube**, compartiendo conocimientos sobre desarrollo y nuevas tendencias tecnológicas.  
-✔️ **Comprometido con el aprendizaje continuo** y siempre en busca de nuevas oportunidades para innovar.  
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">  
 
-📄 [**Descarga mi CV aquí**](https://onedrive.live.com/)  
-💬 ¡Estoy abierto a nuevas oportunidades! **Contáctame y hablemos.**  
+✔️ **Ingeniero de Software** con experiencia en desarrollo Full Stack.  
+✔️ Apasionado por la arquitectura de software y las buenas prácticas.  
+✔️ Especializado en React, Laravel, Flutter y más tecnologías modernas.  
+✔️ Interesado en DevOps, seguridad y optimización de código.  
+✔️ Creador de contenido en YouTube sobre desarrollo y tecnología.  
+
+📫 **Contacto:** juanrojas.dev@gmail.com  
 
 ---
 
-## 🌍 Conéctate conmigo  
+## 🚀 Tecnologías y Herramientas  
 
 <p align="center">
-<a href="https://instagram.com/messigd"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
-<a href="https://facebook.com/messigd"><img src="https://img.icons8.com/fluency/48/facebook.png" alt="Facebook"/></a>
-<a href="https://www.linkedin.com/in/juanrojas"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://www.youtube.com/@MessigD"><img src="https://img.icons8.com/fluency/48/youtube.png" alt="YouTube"/></a>
+  <img src="https://skillicons.dev/icons?i=react,flutter,laravel,php,js,ts,html,css,tailwind,mysql,mongodb,nodejs,nextjs,express,firebase,aws,docker,linux,git,github,gitlab,figma,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🔧 Tecnologías y Herramientas  
+## 📌 Proyectos Destacados  
+
+📌 [**Proyecto 1** - Nombre del Proyecto](#) - Descripción breve.  
+📌 [**Proyecto 2** - Nombre del Proyecto](#) - Descripción breve.  
+📌 [**Proyecto 3** - Nombre del Proyecto](#) - Descripción breve.  
+
+---
+
+## 🌟 GitHub Stats  
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,php,laravel,js,ts,nodejs,python,cs,dotnet,mysql,postgres,mongodb,git,github,docker,aws,gcp,linux,azure,kubernetes,redis,graphql,firebase,tailwind,vscode&theme=dark&perline=10" alt="Tecnologías" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MessigD&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MessigD&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados  
+## ☕ Conéctate conmigo  
 
-🔹 **[Proyecto 1 - Plataforma SaaS](https://github.com/MessigD/Proyecto1)** → Desarrollo de una plataforma escalable con **React, Laravel y AWS**.  
-🔹 **[Proyecto 2 - Aplicación Móvil](https://github.com/MessigD/Proyecto2)** → Aplicación en **Flutter con Firebase**, optimizada para rendimiento y escalabilidad.  
-🔹 **[Proyecto 3 - API Segura](https://github.com/MessigD/Proyecto3)** → API REST con autenticación OAuth2 y protección avanzada.  
-
-📌 *Consulta mi GitHub para ver más proyectos interesantes.*  
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MessigD&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MessigD&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/MessigD)  
+[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/MessigD)  
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/juanrojas-dev)  
+[![YouTube](https://img.icons8.com/fluency/48/000000/youtube.png)](https://www.youtube.com/@MessigD)  
+[![Correo](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:juanrojas.dev@gmail.com)  
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MessigD&theme=radical&no-frame=true&margin-w=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 💬 ¡Hablemos!  
-
-📧 **Email:** juanrojas.dev@gmail.com  
-🌐 **Portfolio:** [juanrojas.dev](https://juanrojas.dev)  
-📞 **Contáctame y llevemos la tecnología al siguiente nivel.**  
-
----
-
-### 🚀 ¡Gracias por visitar mi perfil! ¡Colaboremos y creemos algo increíble juntos! 🚀
+📌 **¡Gracias por visitar mi perfil!** 🚀
