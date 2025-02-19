@@ -47,38 +47,13 @@
 
 ---
 
-## 📈 GitHub Stats  
+<br><br>
+<h2 align="left">🌟 GitHub Trophies:</h2>
+<hr size="2" width="55%" color="yellow"> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=se-laps&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="se-laps" /></a> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MessigD&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MessigD&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+<h2 align="left">✍ GitHub Stats:</h2>
+<hr size="2" width="55%" color="yellow"> 
 
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MessigD&theme=radical&no-frame=true&margin-w=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 💬 ¡Conectemos y colaboremos!
-
-Estoy siempre dispuesto a explorar nuevas oportunidades de colaboración, compartir conocimientos y aportar soluciones innovadoras en el ámbito del desarrollo de software. Si estás interesado en discutir sobre proyectos, desarrollo de tecnología o posibles asociaciones, no dudes en ponerte en contacto.
-
-📧 **Correo electrónico:** juanrojas.dev@gmail.com  
-🌐 **Portfolio:** [juanrojas.dev](https://juanrojas.dev)  
-🔗 **LinkedIn:** [Conectemos en LinkedIn](https://www.linkedin.com/in/juanrojas)  
-🔴 **YouTube:** [Visita mi canal en YouTube](https://www.youtube.com/@MessigD)  
-🖥️ **GitHub:** [Explora mis proyectos en GitHub](https://github.com/MessigD)
-
-**¿Por qué conectar conmigo?**
-- **Consultoría y desarrollo** en arquitectura de software, diseño de sistemas escalables y optimización de procesos.  
-- **Colaboración profesional** en proyectos de desarrollo full stack, DevOps y tecnologías emergentes.  
-- **Aprendizaje y crecimiento conjunto** mediante el intercambio de conocimientos y mejores prácticas en el campo del desarrollo de software.  
-
-Si estás buscando un profesional comprometido con la excelencia, dispuesto a aportar valor a tu proyecto o empresa, estaré encantado de conversar sobre cómo podemos trabajar juntos. 
-
-¡No dudes en contactarme para discutir tus necesidades tecnológicas y cómo puedo ayudarte a alcanzar tus objetivos!
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
+<br>
