@@ -1,71 +1,92 @@
-![DOGO & SENIOR DEVELOPER Banner](https://github.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/blob/main/tu-banner.png)
+# ![D0GO&SENI0RDEVEL0PER](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
 
-## 👋 ¡Hola, soy DOGO & SENIOR DEVELOPER! 💻🔥  
+<h1 align="center">🚀 ¡Hola, mundo! Soy Juan Rojas | D0GO&SENI0RDEVEL0PER 👨‍💻</h1>
 
 <p align="center">
-  <a href="https://tusitio.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="@TU_USUARIO_GITHUB"/></a>
-  <a href="mailto:tuemail@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="@TU_USUARIO_GITHUB"/></a>
-  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="@TU_USUARIO_GITHUB"/></a>
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="@TU_USUARIO_GITHUB"/></a>
-  <a href="https://www.facebook.com/tu-facebook" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="@TU_USUARIO_GITHUB"/></a>
-  <a href="https://instagram.com/tu-instagram" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="@TU_USUARIO_GITHUB"/></a>
-  <a href="https://www.youtube.com/@D0GO_SENI0RDEVEL0PER" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="@TU_USUARIO_GITHUB"/></a>
+  <a href="https://github.com/DeveloperJuanAquinoPA">
+    <img src="https://img.shields.io/github/followers/DeveloperJuanAquinoPA?label=Follow%20Me&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://www.youtube.com/@D0GO_SENI0RDEVEL0PER">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCFakeChannel?style=social" alt="YouTube Subscribers">
+  </a>
 </p>
 
----
-
-<h2 align="left">💫 Sobre Mí:</h2>
-<hr size="2" width="55%" color="yellow">  
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"> 
-
-- 👨‍💻 Actualmente estoy aprendiendo de forma autodidacta.
-- 💡 Me encanta investigar nuevas tecnologías y crear soluciones innovadoras.
-- 🎮 Interesado en el desarrollo de videojuegos con **Unreal Engine y Unity**.
-- 🌱 Explorando más sobre **Machine Learning, Web3 y Arquitecturas Basadas en Microservicios**.
-- 🎥 Mientras tengo tiempo libre, subo contenido a mi canal de YouTube.
-- 💬 Contáctame para proyectos o colaboraciones.
-- ✉️ Escríbeme a **tuemail@gmail.com** y responderé lo antes posible.
-- 📄 Revisa mi [CV](https://tu-link-cv.com) para más información sobre mi experiencia.
-
-<br><br>
+<h2 align="center">💻 Desarrollador Full Stack | Especialista en Flutter, Laravel, React Native y Ciberseguridad</h2>
 
 ---
 
-## ☕ ¡Conéctate conmigo!  
-
-<br>
-
-[![@DOGO & SENIOR DEVELOPER](https://img.icons8.com/fluency/48/000000/instagram-new.png "@DOGO & SENIOR DEVELOPER")](https://www.instagram.com/tu-instagram/) 
-[![@DOGO & SENIOR DEVELOPER](https://img.icons8.com/fluency/48/000000/facebook.png "@DOGO & SENIOR DEVELOPER")](https://www.facebook.com/tu-facebook) 
-[![@DOGO & SENIOR DEVELOPER](https://img.icons8.com/fluency/48/000000/linkedin.png "@DOGO & SENIOR DEVELOPER")](https://www.linkedin.com/in/tu-linkedin) 
-[![@DOGO & SENIOR DEVELOPER](https://img.icons8.com/fluency/48/000000/tiktok.png "@DOGO & SENIOR DEVELOPER")](https://www.tiktok.com/@tu-tiktok) 
-[![@DOGO & SENIOR DEVELOPER](https://img.icons8.com/fluency/48/000000/youtube.png "@DOGO & SENIOR DEVELOPER")](https://www.youtube.com/@D0GO_SENI0RDEVEL0PER) 
-[![@DOGO & SENIOR DEVELOPER](https://img.icons8.com/fluency/48/000000/apple-mail.png "@DOGO & SENIOR DEVELOPER")](mailto:tuemail@gmail.com)  
-
-<br>
+### 🔥 Sobre mí:
+- 💡 **Apasionado por la programación y la innovación tecnológica.**
+- 🚀 **Desarrollador Full Stack con experiencia en tecnologías modernas.**
+- 🛠️ **Especialista en Flutter, Laravel, React Native y Ciberseguridad.**
+- 🔍 **Siempre aprendiendo y explorando nuevas tecnologías.**
+- 💼 **Construyendo soluciones de alto rendimiento y escalabilidad.**
+- 🎯 **Mi objetivo: ayudar a otros a crecer en el mundo del desarrollo.**
 
 ---
 
-## 💻 Lenguajes y Herramientas:  
+## 🌍 **Conéctate conmigo**
+📩 **Email:** [panthergamingnvidia12@gmail.com](mailto:panthergamingnvidia12@gmail.com)  
+📞 **Teléfono:** [+51900306542](tel:+51900306542)  
+
+### 📌 Mis redes sociales y proyectos:
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,c,cs,cpp,dart,nodejs,vscode,react,html,css,js,kotlin,laravel,linux,mysql,php,postman,py,r,sqlite,tensorflow,ubuntu,unity,vue,figma&theme=dark&perline=10" alt="Skill Icons" />
-</a>
+  <a href="https://www.youtube.com/@D0GO_SENI0RDEVEL0PER">
+    <img src="https://img.icons8.com/bubbles/50/youtube.png" alt="YouTube">
+  </a>
+  <a href="https://www.linkedin.com/in/jesús-josué-castañeda-colcas-9a73a5312">
+    <img src="https://img.icons8.com/bubbles/50/linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/DeveloperJuanAquinoPA">
+    <img src="https://img.icons8.com/bubbles/50/github.png" alt="GitHub">
+  </a>
+  <a href="https://www.facebook.com/candida.noronha.77">
+    <img src="https://img.icons8.com/bubbles/50/facebook.png" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/anushkawijegoonawardana97/">
+    <img src="https://img.icons8.com/bubbles/50/instagram.png" alt="Instagram">
+  </a>
+  <a href="https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04">
+    <img src="https://img.icons8.com/bubbles/50/document.png" alt="Currículum">
+  </a>
 </p>
 
 ---
 
-## 🌟 Trofeos de GitHub:  
-<hr size="2" width="55%" color="yellow">  
-<p align="left">  
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="DOGO & SENIOR DEVELOPER" />
-</a>  
+## 🛠️ **Habilidades y Tecnologías**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,laravel,react,html,css,js,php,dart,mysql,sqlite,mongodb,nodejs,nextjs,git,github,linux,figma&theme=dark" alt="Tecnologías">
+  </a>
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub:  
-<hr size="2" width="55%" color="yellow">  
+## 📊 **Estadísticas de GitHub**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJuanAquinoPA&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperJuanAquinoPA&theme=radical" alt="GitHub Streak">
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## 🏆 **Trofeos en GitHub**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperJuanAquinoPA&theme=radical&no-frame=false&margin-w=6" alt="GitHub Trophies">
+</p>
+
+---
+
+## 🚀 **Proyectos Destacados**
+### 🌐 [Proyecto 1 - Plataforma Web con Laravel y React](https://github.com/DeveloperJuanAquinoPA/Proyecto1)
+- 🛠️ **Tecnologías:** Laravel, React, MySQL  
+- 📌 **Descripción:** Plataforma web para gestión de clientes y productos.
+
+### 📱 [Proyecto 2 - App Móvil con Flutter](https://github.com/DeveloperJuanAquinoPA/Proyecto2)
+- 🛠️ **Tecnologías:** Flutter, Dart, Firebase  
+- 📌 **Descripción:** Aplicación móvil para e-commerce con integración de pagos.
+
+---
+
+## 🌟 **¡Gracias por visitar mi perfil!**  
+📢 **¡Sigue mis redes y suscríbete para más contenido de desarrollo!** 🚀
