@@ -1,4 +1,4 @@
-![Juan Rojas | Software Engineer](https://github.com/MessigD/MessigD/blob/main/banner.png)
+![Juan Rojas | Software Engineer](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
 
 <h1 align="center"> 🚀 Juan Rojas | Software Engineer 🚀 </h1>
 
@@ -44,16 +44,6 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,php,laravel,js,ts,nodejs,python,cs,dotnet,mysql,postgres,mongodb,git,github,docker,aws,gcp,linux,azure,kubernetes,redis,graphql,firebase,tailwind,vscode&theme=dark&perline=10" alt="Tecnologías" />
 </a>
 </p>
-
----
-
-## 🚀 Proyectos Destacados  
-
-🔹 **[Proyecto 1 - Plataforma SaaS](https://github.com/MessigD/Proyecto1)** → Desarrollo de una plataforma escalable con **React, Laravel y AWS**.  
-🔹 **[Proyecto 2 - Aplicación Móvil](https://github.com/MessigD/Proyecto2)** → Aplicación en **Flutter con Firebase**, optimizada para rendimiento y escalabilidad.  
-🔹 **[Proyecto 3 - API Segura](https://github.com/MessigD/Proyecto3)** → API REST con autenticación OAuth2 y protección avanzada.  
-
-📌 *Consulta mi GitHub para ver más proyectos interesantes.*  
 
 ---
 
