@@ -1,64 +1,86 @@
-# 🚀 Juan Rojas | Full Stack Developer | Tech Enthusiast 💻
+![Juan Rojas Banner](https://github.com/MessigD/MessigD/blob/main/LogoPT.png)
 
-¡Bienvenido a mi perfil de GitHub! Soy **Juan Rojas**, un **Desarrollador Full Stack** apasionado por la tecnología y la programación. Me especializo en el desarrollo de aplicaciones **web, móviles y backend**, con experiencia en **React, Laravel, Flutter, Ciberseguridad y más**.  
+# 👋 ¡Hola, soy Juan Rojas! | Full Stack Developer & Tech Enthusiast 🚀  
 
-Siempre estoy explorando nuevas tecnologías y frameworks para mejorar mis habilidades y aportar soluciones innovadoras. Mi objetivo es desarrollar software eficiente, escalable y de alto rendimiento. 🚀  
+<p align="center">
+  <a href="mailto:panthergamingnvidia12@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
+  <a href="https://github.com/MessigD"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/juanrojas"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/messigd/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@MessigD"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
+</p>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas que Uso:
-### 🌐 **Frontend**
-- React.js, Next.js, Vite, TypeScript
-- Redux, Zustand, TailwindCSS, Bootstrap
-- HTML5, CSS3, JavaScript (ES6+)
+## 💡 Sobre Mí:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">  
 
-### 🔧 **Backend**
-- Laravel, Node.js, Express.js, PHP, Python, C#
-- MySQL, PostgreSQL, Firebase, MongoDB
-- API REST, GraphQL, WebSockets
+🔹 **Desarrollador Full Stack** con experiencia en tecnologías modernas.  
+🔹 **Apasionado por la ciberseguridad, el desarrollo web y móvil.**  
+🔹 **Aprendiendo nuevas tecnologías constantemente.**  
+🔹 Actualmente, me enfoco en **Flutter, Laravel, React y Ciberseguridad**.  
+🔹 🎯 **Objetivo:** Crear soluciones innovadoras y eficientes.  
+🔹 🏆 ¡Me encanta colaborar en proyectos Open Source y compartir conocimientos!  
+
+---
+
+## 🛠️ Tecnologías y Herramientas:
+
+### 🌐 **Frontend**
+- 🚀 React.js, Next.js, Vite, TypeScript
+- 🎨 TailwindCSS, Bootstrap, SASS
+- 🖼️ HTML5, CSS3, JavaScript (ES6+)
+
+### 🖥️ **Backend**
+- 🐘 PHP, Laravel, Node.js, Express.js, Django
+- 🔗 API REST, GraphQL, WebSockets
+- 🗄️ MySQL, PostgreSQL, Firebase, MongoDB
 
 ### 📱 **Desarrollo Móvil**
-- Flutter, Dart, React Native
+- 📲 Flutter, Dart, React Native
 
 ### 🛡️ **Ciberseguridad**
-- Ethical Hacking, OWASP, Análisis de Vulnerabilidades
-- Hardening de Servidores, Seguridad en APIs
+- 🔍 Ethical Hacking, OWASP, Análisis de Vulnerabilidades
+- 🔐 Seguridad en APIs y Hardening de Servidores
 
 ### ☁️ **DevOps & Cloud**
-- Docker, CI/CD, GitHub Actions
-- AWS, Firebase, Vercel, Netlify
+- 🐳 Docker, Kubernetes, CI/CD, GitHub Actions
+- ☁️ AWS, Firebase, Vercel, Netlify
+
+---
+
+## 🚀 Proyectos Destacados:
+- 🔗 **[FrontendX](https://github.com/MessigD/frontendx)** → Recursos para desarrolladores frontend.  
+- 📱 **[FlutterApp](https://github.com/MessigD/flutterapp)** → Aplicación móvil con Flutter y Firebase.  
+- 🛡️ **[CyberSec Toolkit](https://github.com/MessigD/cybersec-toolkit)** → Herramientas y scripts de ciberseguridad.  
 
 ---
 
 ## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MessigD&show_icons=true&theme=radical" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MessigD&theme=radical" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MessigD&layout=compact&theme=radical" width="50%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MessigD&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MessigD&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MessigD&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
-## 📌 Mis Proyectos Destacados:
-- **🔗 [FrontendX](https://github.com/MessigD/frontendx)** → Recursos y proyectos para desarrolladores frontend.
-- **📱 [FlutterApp](https://github.com/MessigD/flutterapp)** → Aplicación móvil desarrollada con Flutter y Firebase.
-- **🛡️ [CyberSec Toolkit](https://github.com/MessigD/cybersec-toolkit)** → Herramientas y scripts de ciberseguridad.
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MessigD&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-## 🚀 Roadmap de Aprendizaje
-Estoy en constante aprendizaje y actualmente me estoy enfocando en:
-✅ **Ciberseguridad Avanzada**  
-✅ **Desarrollo Full Stack con Laravel y React**  
-✅ **Flutter para Aplicaciones Móviles**  
-✅ **Automatización con Python y DevOps**  
+## 📣 Conéctate Conmigo:
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanrojas"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/messigd/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/MessigD"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"/></a>
+  <a href="https://www.youtube.com/@MessigD"><img src="https://img.icons8.com/fluency/48/000000/youtube.png" alt="YouTube"/></a>
+  <a href="mailto:panthergamingnvidia12@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/></a>
+</p>
 
 ---
 
-## 📣 Conéctate conmigo:
-📌 **LinkedIn:** [Juan Rojas](https://www.linkedin.com/in/tu-perfil)  
-📌 **YouTube:** [Crea Tu Web Desde Cero](https://www.youtube.com/c/CreaTuWebDesdeCero)  
-📌 **Twitter/X:** [@MESSIGD](https://twitter.com/MESSIGD)  
-📌 **GitHub:** [MessigD](https://github.com/MessigD)  
-
-⭐ **¡No olvides seguirme y explorar mis repositorios!**
+⭐ **¡No olvides seguirme y explorar mis repositorios!** 🚀
