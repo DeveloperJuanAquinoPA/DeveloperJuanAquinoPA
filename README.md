@@ -1,4 +1,4 @@
-![Juan Rojas | Software Engineer](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
+![Juan Rojas | Software Engineer](https://github.com/MessigD/MessigD/blob/main/banner.png)
 
 <h1 align="center"> 🚀 Juan Rojas | Software Engineer 🚀 </h1>
 
@@ -14,15 +14,17 @@
 ## 💡 Sobre mí  
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-✔️ **Ingeniero de Software Full Stack** con una mentalidad innovadora y pasión por la tecnología.  
-✔️ **Experiencia en desarrollo web y móvil** con tecnologías modernas como **React, Flutter, Laravel, Node.js y más.**  
-✔️ **Experto en arquitectura de software**, desarrollo escalable y optimización de sistemas.  
-✔️ **Apasionado por la ciberseguridad**, DevOps y automatización de procesos.  
-✔️ **Creador de contenido en YouTube**, compartiendo conocimientos sobre desarrollo y nuevas tendencias tecnológicas.  
-✔️ **Comprometido con el aprendizaje continuo** y siempre en busca de nuevas oportunidades para innovar.  
+Soy **Juan Rojas**, un **Ingeniero de Software Full Stack** apasionado por la tecnología y el desarrollo de soluciones innovadoras. Mi enfoque profesional se basa en crear aplicaciones eficientes y escalables, trabajando con un conjunto diverso de tecnologías modernas y metodologías ágiles.
+
+### ¿Qué hago?
+✔️ **Desarrollo Full Stack** utilizando tecnologías como **React, Flutter, Laravel, Node.js**, y más.  
+✔️ **Optimización de sistemas** y diseño de **arquitecturas escalables** para aplicaciones de alto rendimiento.  
+✔️ **Automatización de procesos**, DevOps, y **prácticas de seguridad** en cada fase del ciclo de vida del desarrollo de software.  
+✔️ **Creación de contenido en YouTube**, donde comparto mis experiencias y conocimientos sobre el desarrollo de software y tendencias tecnológicas.  
+✔️ **Enfoque en el aprendizaje continuo**, con una constante búsqueda de soluciones innovadoras.
 
 📄 [**Descarga mi CV aquí**](https://onedrive.live.com/)  
-💬 ¡Estoy abierto a nuevas oportunidades! **Contáctame y hablemos.**  
+💬 **Estoy abierto a nuevas oportunidades de colaboración.** No dudes en ponerte en contacto.
 
 ---
 
@@ -47,13 +49,30 @@
 
 ---
 
-<br><br>
-<h2 align="left">🌟 GitHub Trophies:</h2>
-<hr size="2" width="55%" color="yellow"> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=se-laps&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="se-laps" /></a> </p>
+## 📈 GitHub Stats  
 
-<h2 align="left">✍ GitHub Stats:</h2>
-<hr size="2" width="55%" color="yellow"> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MessigD&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MessigD&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
-<br>
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MessigD&theme=radical&no-frame=true&margin-w=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💬 ¡Conectemos y Colaboremos!
+
+Estoy disponible para nuevas oportunidades de colaboración, consultoría o proyectos en el ámbito del desarrollo de software. Si te interesa discutir alguna idea, trabajar en un proyecto conjunto o simplemente aprender más sobre mi enfoque y metodologías, no dudes en ponerte en contacto.
+
+📧 **Email:** juanrojas.dev@gmail.com  
+🌐 **Portfolio:** [juanrojas.dev](https://juanrojas.dev)  
+🔗 **LinkedIn:** [Conectemos en LinkedIn](https://www.linkedin.com/in/juanrojas)  
+📞 **WhatsApp:** [Envíame un mensaje aquí](https://wa.me/tu-numero)  
+
+**Estoy listo para afrontar nuevos retos y llevar tus proyectos al siguiente nivel.**
