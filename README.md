@@ -66,10 +66,17 @@
 
 ## 💬 ¡Hablemos!  
 
+Estoy siempre abierto a nuevas oportunidades de colaboración, proyectos interesantes y compartir conocimientos con otros profesionales. Si estás interesado en trabajar juntos, aprender más sobre mi enfoque de desarrollo o simplemente tienes alguna consulta, no dudes en contactarme.  
+
 📧 **Email:** juanrojas.dev@gmail.com  
 🌐 **Portfolio:** [juanrojas.dev](https://juanrojas.dev)  
-📞 **Contáctame y llevemos la tecnología al siguiente nivel.**  
+💬 **LinkedIn:** [Conectemos en LinkedIn](https://www.linkedin.com/in/juanrojas)  
+📞 **WhatsApp:** [Envíame un mensaje aquí](https://wa.me/tu-numero)  
+🔴 **YouTube:** [Visita mi canal en YouTube](https://www.youtube.com/@MessigD)  
+🖥️ **GitHub:** [Explora mis proyectos en GitHub](https://github.com/MessigD)  
 
----
+🌍 **¿Te gustaría saber más sobre mis proyectos, metodologías de trabajo o filosofías de desarrollo?** ¡Estoy aquí para ayudarte!  
+🌱 **Soy un firme creyente del aprendizaje continuo**, así que no dudes en preguntarme cualquier duda relacionada con tecnologías, herramientas o el mundo del software.  
+💡 **Si tienes ideas para proyectos conjuntos o simplemente quieres compartir tu visión sobre el futuro de la tecnología**, estaré encantado de charlar contigo.  
 
-### 🚀 ¡Gracias por visitar mi perfil! ¡Colaboremos y creemos algo increíble juntos! 🚀
+**¡No dudes en contactarme y llevar tu proyecto al siguiente nivel!** Estoy aquí para compartir, colaborar y crecer juntos.
