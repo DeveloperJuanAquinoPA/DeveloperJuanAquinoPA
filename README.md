@@ -66,9 +66,7 @@ Soy **Juan Rojas**, un **Ingeniero de Software Full Stack** apasionado por la te
 
 ---
 
-## 💬 ¡Conectemos y Colaboremos!
-
-Estoy disponible para nuevas oportunidades de colaboración, consultoría o proyectos en el ámbito del desarrollo de software. Si te interesa discutir alguna idea, trabajar en un proyecto conjunto o simplemente aprender más sobre mi enfoque y metodologías, no dudes en ponerte en contacto.
+## 💬 ¡Contáctame!
 
 📧 **Email:** juanrojas.dev@gmail.com  
 🌐 **Portfolio:** [juanrojas.dev](https://juanrojas.dev)  
