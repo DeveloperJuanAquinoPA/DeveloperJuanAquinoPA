@@ -38,7 +38,6 @@
 - 🔹 **Self-Taught** and always learning new technologies.  
 - 🔹 Uploading content on **YouTube** to share knowledge and projects.  
 
-📬 **Contact Me:**  
 ✉️ Email: [panthergamingnvidia12@gmail.com](mailto:panthergamingnvidia12@gmail.com)  
 📄 [**My CV**](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp)  
 
