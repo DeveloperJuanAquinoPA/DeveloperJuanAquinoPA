@@ -1,4 +1,4 @@
-![Juan Rojas | Software Engineer](https://github.com/MessigD/MessigD/blob/main/banner.png)
+![Juan Rojas | Software Engineer](https://github.com/MessigD/DeveloperDo/blob/main/LogoPT.png)
 
 <h1 align="center"> 🚀 Juan Rojas | Software Engineer 🚀 </h1>
 
