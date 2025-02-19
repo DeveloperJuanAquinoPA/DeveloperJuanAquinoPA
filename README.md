@@ -53,45 +53,12 @@
 
 ---
 
-## 🌟 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJuanAquinoPA&show_icons=true&theme=radical">
-</p>
+<h2 align="left">🌟 GitHub Trophies:</h2>
+<hr size="2" width="55%" color="yellow"> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=se-laps&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="se-laps" /></a> </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperJuanAquinoPA&theme=radical&no-frame=false&no-bg=true&margin-w=6">
-</p>
+<h2 align="left">✍ GitHub Stats:</h2>
+<hr size="2" width="55%" color="yellow"> 
 
----
-
-## 🔥 Latest Projects  
-### 🚀 **Game Development**  
-- 🎮 **[Project 1](https://github.com/DeveloperJuanAquinoPA/GameProject1)** - Unreal Engine RPG  
-- 🎮 **[Project 2](https://github.com/DeveloperJuanAquinoPA/GameProject2)** - Unity FPS Shooter  
-
-### 🌍 **Web & Mobile Development**  
-- 📱 **[E-commerce App](https://github.com/DeveloperJuanAquinoPA/EcommerceApp)** - Flutter + Laravel  
-- 🌐 **[Portfolio Website](https://github.com/DeveloperJuanAquinoPA/PortfolioSite)** - React & Next.js  
-
----
-
-## 📫 Let's Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/jesús-josué-castañeda-colcas-9a73a5312">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.instagram.com/anushkawijegoonawardana97/">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-  </a>
-  <a href="https://www.facebook.com/AnushkaWijegoonawardana97">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook.png"/>
-  </a>
-  <a href="https://www.youtube.com/@D0GO_SENI0RDEVEL0PER">
-    <img src="https://img.icons8.com/fluency/48/000000/youtube.png"/>
-  </a>
-</p>
-
----
-
-🔔 **Stay Updated!**  
-⭐ **Star** this repository if you
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
+<br>
