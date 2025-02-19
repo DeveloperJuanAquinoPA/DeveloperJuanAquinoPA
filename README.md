@@ -68,9 +68,9 @@ Soy **Juan Rojas**, un **Ingeniero de Software Full Stack** apasionado por la te
 
 ## 💬 ¡Contáctame!
 
-📧 **Email:** juanrojas.dev@gmail.com  
+📧 **Email:** [juanrojas.dev@gmail.com](mailto:juanrojas.dev@gmail.com)  
 🌐 **Portfolio:** [juanrojas.dev](https://juanrojas.dev)  
-🔗 **LinkedIn:** [Conectemos en LinkedIn](https://www.linkedin.com/in/juanrojas)  
-📞 **WhatsApp:** [Envíame un mensaje aquí](https://wa.me/tu-numero)  
+🔗 **LinkedIn:** [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/juanrojas)  
+📞 **WhatsApp:** [Envíame un mensaje aquí](https://wa.me/tu-numero)
 
-**Estoy listo para afrontar nuevos retos y llevar tus proyectos al siguiente nivel.**
+**Estoy disponible para nuevas oportunidades de colaboración y para llevar tus proyectos al siguiente nivel. No dudes en contactarme.**
