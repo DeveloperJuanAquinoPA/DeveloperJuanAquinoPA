@@ -1,77 +1,85 @@
-![Juan Rojas Banner](https://github.com/DeveloperJuanAquinoPA/DeveloperJuanAquinoPA/blob/main/LogoPT.png)
+![Juan Rojas | Software Engineer](https://github.com/MessigD/MessigD/blob/main/banner.png)
 
-<h1 align="center">🚀 Juan Rojas | Senior Full-Stack & Cybersecurity Developer</h1>
+<h1 align="center"> 🚀 Juan Rojas | Software Engineer 🚀 </h1>
 
 <p align="center">
-  <a href="mailto:panthergamingnvidia12@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
-  <a href="https://github.com/DeveloperJuanAquinoPA"><img src="https://img.icons8.com/fluency/48/github.png"/></a>
-  <a href="https://www.linkedin.com/in/tu_perfil"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-  <a href="https://www.youtube.com/@D0GO_SENI0RDEVEL0PER"><img src="https://img.icons8.com/fluency/48/youtube.png"/></a>
+  <a href="mailto:juanrojas.dev@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/></a>
+  <a href="https://github.com/MessigD" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/juanrojas" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@MessigD" target="_blank"><img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 💡 Sobre mí  
+<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align="right" width="380" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">  
+✔️ **Ingeniero de Software Full Stack** con una mentalidad innovadora y pasión por la tecnología.  
+✔️ **Experiencia en desarrollo web y móvil** con tecnologías modernas como **React, Flutter, Laravel, Node.js y más.**  
+✔️ **Experto en arquitectura de software**, desarrollo escalable y optimización de sistemas.  
+✔️ **Apasionado por la ciberseguridad**, DevOps y automatización de procesos.  
+✔️ **Creador de contenido en YouTube**, compartiendo conocimientos sobre desarrollo y nuevas tendencias tecnológicas.  
+✔️ **Comprometido con el aprendizaje continuo** y siempre en busca de nuevas oportunidades para innovar.  
 
-🔹 **Senior Developer** | Specialized in **Flutter, React Native, Laravel & Cybersecurity**  
-🔹 Passionate about **AI, Blockchain & Cloud Computing**  
-🔹 Architecting **Scalable & Secure Systems** for high-performance applications  
-🔹 Expertise in **Machine Learning, Ethical Hacking & Automation**  
-🔹 **YouTube Tech Educator** | [@D0GO_SENI0RDEVEL0PER](https://www.youtube.com/@D0GO_SENI0RDEVEL0PER)  
-🔹 Open-source contributor & passionate about **tech community building**  
-
-📩 **Contact me:** [panthergamingnvidia12@gmail.com](mailto:panthergamingnvidia12@gmail.com)  
-📄 **[Download My CV](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp)**  
+📄 [**Descarga mi CV aquí**](https://onedrive.live.com/)  
+💬 ¡Estoy abierto a nuevas oportunidades! **Contáctame y hablemos.**  
 
 ---
 
-## 🔗 Connect With Me  
+## 🌍 Conéctate conmigo  
 
 <p align="center">
-  <a href="https://www.instagram.com/tu_perfil"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
-  <a href="https://www.facebook.com/tu_perfil"><img src="https://img.icons8.com/fluency/48/facebook.png"/></a>
-  <a href="https://www.linkedin.com/in/tu_perfil"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-  <a href="https://www.tiktok.com/@tu_perfil"><img src="https://img.icons8.com/fluency/48/tiktok.png"/></a>
+<a href="https://instagram.com/messigd"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
+<a href="https://facebook.com/messigd"><img src="https://img.icons8.com/fluency/48/facebook.png" alt="Facebook"/></a>
+<a href="https://www.linkedin.com/in/juanrojas"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@MessigD"><img src="https://img.icons8.com/fluency/48/youtube.png" alt="YouTube"/></a>
 </p>
 
 ---
 
-## 🚀 Tech Stack  
+## 🔧 Tecnologías y Herramientas  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,php,laravel,nodejs,python,java,kotlin,swift,cpp,cs,rust,go,mysql,mongodb,firebase,django,docker,kubernetes,linux,git,github,gitlab,aws,gcp,azure,figma,postman,vscode,androidstudio,unity,bootstrap,tailwind&theme=dark&perline=10" />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,php,laravel,js,ts,nodejs,python,cs,dotnet,mysql,postgres,mongodb,git,github,docker,aws,gcp,linux,azure,kubernetes,redis,graphql,firebase,tailwind,vscode&theme=dark&perline=10" alt="Tecnologías" />
+</a>
 </p>
 
 ---
 
-## 🏆 Achievements  
+## 🚀 Proyectos Destacados  
+
+🔹 **[Proyecto 1 - Plataforma SaaS](https://github.com/MessigD/Proyecto1)** → Desarrollo de una plataforma escalable con **React, Laravel y AWS**.  
+🔹 **[Proyecto 2 - Aplicación Móvil](https://github.com/MessigD/Proyecto2)** → Aplicación en **Flutter con Firebase**, optimizada para rendimiento y escalabilidad.  
+🔹 **[Proyecto 3 - API Segura](https://github.com/MessigD/Proyecto3)** → API REST con autenticación OAuth2 y protección avanzada.  
+
+📌 *Consulta mi GitHub para ver más proyectos interesantes.*  
+
+---
+
+## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperJuanAquinoPA&theme=algolia&row=2&column=4&no-frame=true&margin-w=100"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MessigD&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MessigD&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph  
+## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperJuanAquinoPA&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MessigD&theme=radical&no-frame=true&margin-w=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🎯 Top Used Languages  
+## 💬 ¡Hablemos!  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperJuanAquinoPA&layout=compact&theme=algolia&hide_border=true&langs_count=10" width="50%"/>
-</p>
+📧 **Email:** juanrojas.dev@gmail.com  
+🌐 **Portfolio:** [juanrojas.dev](https://juanrojas.dev)  
+📞 **Contáctame y llevemos la tecnología al siguiente nivel.**  
 
 ---
 
-## 👀 Profile Views  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeveloperJuanAquinoPA&label=Profile%20Views&color=blue&style=flat"/>
-</p>
+### 🚀 ¡Gracias por visitar mi perfil! ¡Colaboremos y creemos algo increíble juntos! 🚀
