@@ -38,7 +38,8 @@
 - 🔹 Constantly learning and improving with a **self-taught** mindset.  
 - 🔹 Sharing my Flutter journey and tutorials on **YouTube**.  
 ✉️ Email: [juancflutterdev@gmail.com](mailto:juancflutterdev@gmail.com)  
-📄 [**My Portfolio**](https://juancc.dev)
+📄 [**My Portfolio**](https://juancc.dev)  
+🌐 [**My Website**](https://juancc.dev)
 
 ---
 
@@ -51,12 +52,69 @@
 
 ---
 
-<h2 align="left">🌟 GitHub Trophies:</h2>
-<hr size="2" width="55%" color="yellow"> 
+## 🎮 Game Development & Open Source Contributions  
+As an avid fan of game development, I also enjoy working with **Unity** and **Unreal Engine** to build fun and interactive games.
+
+- 🕹️ Game Projects: [Unity Game Project](https://github.com/JuanC/UnityGame), [Unreal Engine Project](https://github.com/JuanC/UnrealGame)
+- 🌍 Contributing to open-source Flutter projects: [Open Source Flutter](https://github.com/JuanC/OpenSourceFlutter)
+
+---
+
+## 🌟 GitHub Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanC&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="JuanC Flutter Dev" /></a> </p>
 
-<h2 align="left">✍ GitHub Stats:</h2>
-<hr size="2" width="55%" color="yellow"> 
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
-<br>
+## ✍ GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 📚 Notable Projects & Contributions
+
+1. **Flutter Weather App**  
+   - 🎯 Features: Real-time weather data, user-friendly design, integrated with OpenWeatherMap API.  
+   - 🚀 Technologies Used: **Flutter, Dart, HTTP, JSON parsing**  
+   - 🔗 [Project Link](https://github.com/JuanC/FlutterWeatherApp)
+
+2. **Flutter Task Manager**  
+   - 🎯 Features: Task creation, user authentication, data persistence with Firebase.  
+   - 🚀 Technologies Used: **Flutter, Firebase, Firestore**  
+   - 🔗 [Project Link](https://github.com/JuanC/FlutterTaskManager)
+
+3. **Portfolio Website**  
+   - 🎯 Features: A personal portfolio showcasing Flutter projects, blog posts, and contact form.  
+   - 🚀 Technologies Used: **Flutter Web, Dart, Firebase Hosting**  
+   - 🔗 [Project Link](https://github.com/JuanC/Portfolio)
+
+---
+
+## 🚀 Learning Path
+Currently, I'm expanding my knowledge by focusing on:
+
+- 🐍 **Python for Machine Learning**  
+- 📦 **Flutter & Dart Advanced Topics**  
+- 📊 **Firebase for scalable mobile apps**  
+- 🎮 **Game Development in Unity & Unreal Engine**
+
+---
+
+## 📝 Blog & Tutorials
+I regularly post tutorials on Flutter development, mobile app best practices, and game development.
+
+- 📝 [Read My Blog](https://juancc.dev/blog)
+- 🎥 [Watch My YouTube Channel](https://www.youtube.com/@JuanCFlutterDev)
+
+---
+
+## 🌍 Connect with Me
+
+- 🔹 **LinkedIn**: [JuanC LinkedIn](https://www.linkedin.com/in/juancflutterdev/)
+- 🔹 **GitHub**: [JuanC GitHub](https://github.com/JuanC)
+- 🔹 **YouTube**: [JuanC YouTube](https://www.youtube.com/@JuanCFlutterDev)
+- 🔹 **Twitter**: [@JuanCFlutterDev](https://twitter.com/JuanCFlutterDev)
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories, check out my projects, and connect with me if you'd like to collaborate! Happy coding! 🚀✨
