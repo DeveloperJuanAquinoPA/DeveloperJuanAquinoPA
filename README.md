@@ -3,10 +3,10 @@
   <img src="https://github.com/JuanC/JuanCFlutterDev/blob/main/banner.png" width="800">
 </p>
 
-<h1 align="center">🚀 JuanC Flutter Dev | Flutter Developer & Mobile App Expert 📱</h1>
+<h1 align="center">⚡ JuanC Flutter Dev | Senior Mobile & Flutter Developer 🚀</h1>
 
 <p align="center">
-  <b>Experienced Mobile App Developer with a Passion for User-Centric Design & Clean Code</b>
+  <b>Mastering Cross-Platform Development, Performance Optimization & Clean Architecture</b>
 </p>
 
 <!-- Contact Icons -->
@@ -27,100 +27,91 @@
 
 ---
 
-## 💡 About Me  
-<p align="left">
-  <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" width="400">
-</p>
+## 🔧 Tech Stack & Expertise
 
-As a **Mobile App Developer** specializing in **Flutter** and **Dart**, I strive to build high-performance, scalable, and intuitive applications that deliver excellent user experiences. With a focus on **cross-platform mobile development**, I’m passionate about crafting clean, maintainable code, and implementing the best practices in the industry.
+My core expertise lies in crafting scalable, high-performance mobile applications with **Flutter** and **Dart**. Below are the tools and technologies I use to deliver cutting-edge solutions:
 
-- 🔹 **Expert in Flutter & Dart**, with a deep understanding of **state management** (Riverpod, Provider, Bloc) and **UI design principles**.  
-- 🔹 Focused on **clean architecture**, **test-driven development (TDD)**, and delivering solutions that scale.  
-- 🔹 Experienced in working with **Firebase** for real-time data management, authentication, and cloud functions.  
-- 🔹 Proficient in **API integration**, **performance optimization**, and **UI/UX best practices**.  
-- 🔹 Always learning and growing through personal projects and **open-source contributions**.  
-- 🔹 Actively sharing knowledge and contributing to the **Flutter community** through blog posts and YouTube tutorials.  
+### **Frontend Development:**
+- **Flutter** & **Dart**: Expertise in creating responsive and performant mobile apps with clean architecture (BLoC, Provider, Riverpod).  
+- **React Native**: Experience in delivering seamless cross-platform apps using JavaScript and React.  
+- **UI/UX Design**: Proficient in creating pixel-perfect UIs and optimizing for both **iOS** and **Android**.  
+- **State Management**: Experienced with **Riverpod**, **Provider**, **Bloc**, and **Redux** for clean, testable state management.  
 
-📧 [Email me](mailto:juancflutterdev@gmail.com)  
-🌐 [My Website & Portfolio](https://juancc.dev)  
-📄 [Download My Resume](https://juancc.dev/resume)
+### **Backend Development:**
+- **Firebase**: Extensive experience with Firebase Authentication, Firestore, Firebase Cloud Functions, Firebase Hosting, and Cloud Messaging.  
+- **Node.js**: Expertise in building REST APIs and GraphQL APIs.  
+- **Django** & **Flask**: Familiar with building scalable backend systems using Python web frameworks.  
+- **RESTful APIs**: Solid understanding of designing, building, and integrating with RESTful services.
 
----
+### **Tools & Platforms:**
+- **CI/CD**: Continuous Integration and Deployment with **GitHub Actions**, **CircleCI**, **TravisCI**.  
+- **Version Control**: Proficient in **Git** and **GitHub**, ensuring smooth collaboration and source code management.  
+- **Docker**: Containerization of applications to improve scalability and deployment speed.
 
-## 🛠 Tech Stack & Tools  
+### **Cloud Services:**
+- **Google Cloud Platform** (GCP): Experience in deploying, scaling, and maintaining apps using Firebase and Google Cloud Functions.  
+- **AWS**: Worked with AWS services like S3, EC2, Lambda for backend services and storage.
 
-My core skills and tools include:
+### **Databases:**
+- **NoSQL Databases**: Expertise with **Firebase Firestore**, **MongoDB** for fast, scalable data storage.  
+- **SQL Databases**: Experience with **MySQL** and **PostgreSQL** for transactional data management.
 
-- **Flutter & Dart** for mobile application development.  
-- **Firebase** for backend services like real-time databases, authentication, and hosting.  
-- **Git** & **GitHub** for version control and collaboration.  
-- **CI/CD** tools such as **GitHub Actions** for automated testing and deployment.  
-- **Agile** methodology for project management and development.  
-- **Android Studio** and **VS Code** for development.
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,html,css,js,mysql&theme=dark&perline=6">
-  </a>
-</p>
+### **Testing & Debugging:**
+- **Unit Testing**: Proficient in writing unit tests using **Mockito**, **Flutter's testing framework**, and **Jest** for React Native.  
+- **Integration Testing**: Hands-on experience in writing integration tests using **Flutter Driver**, **Widget Tests**, and **End-to-End Testing** (E2E).  
+- **Debugging Tools**: Familiar with debugging tools like **DevTools**, **Flutter Inspector**, and **React DevTools** to optimize app performance.
 
 ---
 
 ## 📈 GitHub Stats & Activity
 
-I am constantly pushing updates and contributions to various projects. Here are some of my GitHub stats:
+My GitHub activity reflects my consistent contribution to open-source projects and personal development:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanC&show_icons=true&theme=radical&hide_title=true&hide_border=true" />
 </p>
 
----
-
-## 🌟 Key Projects
-
-### 1. **[Flutter Weather App](https://github.com/JuanC/FlutterWeatherApp)**  
-A cross-platform weather app built with **Flutter** and **Dart**, featuring real-time weather data, GPS integration, and dynamic UI.  
-- 🚀 Technologies Used: **Flutter, Dart, OpenWeatherMap API**  
-- 🌍 Key Features: Location-based weather updates, interactive UI.
-
-### 2. **[Flutter Task Manager](https://github.com/JuanC/FlutterTaskManager)**  
-Task manager application with **Firebase** integration for user authentication and data persistence.  
-- 🚀 Technologies Used: **Flutter, Firebase, Firestore, Dart**  
-- 🌍 Key Features: User authentication, task tracking, cloud storage.
-
-### 3. **[Personal Portfolio Website](https://juancc.dev)**  
-My personal portfolio showcasing all of my development projects, along with blog posts on Flutter development.  
-- 🚀 Technologies Used: **Flutter Web, Dart, Firebase Hosting**  
-- 🌍 Key Features: Clean UI/UX, mobile-responsive design.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanC&theme=radical&layout=compact&hide_border=true&count_private=true" />
+</p>
 
 ---
 
-## 🎯 Achievements & Certifications
+## 🌍 Key Projects
 
-- **Flutter Certified Developer** (coming soon)  
-- Contributor to open-source Flutter projects and libraries.  
-- Published Flutter tutorials on **YouTube** and **Medium**.
+### **1. [Flutter Weather App](https://github.com/JuanC/FlutterWeatherApp)**
+- **Description**: A weather app that fetches real-time data from OpenWeatherMap API and displays current conditions with advanced features like location-based weather.
+- **Key Features**: GPS integration, offline mode, dynamic UI with animations, dark/light themes.
+- **Technologies Used**: **Flutter**, **Dart**, **OpenWeatherMap API**, **Geolocator Plugin**, **Riverpod**.
 
----
+### **2. [Flutter Task Manager](https://github.com/JuanC/FlutterTaskManager)**
+- **Description**: A personal task manager app with real-time syncing and offline support using Firebase.
+- **Key Features**: Task categorization, priority sorting, reminder notifications.
+- **Technologies Used**: **Flutter**, **Firebase Firestore**, **Firebase Cloud Functions**, **Firebase Authentication**.
 
-## 🌱 Current Focus & Learning Path
+### **3. [React Native Marketplace App](https://github.com/JuanC/ReactNativeMarketplaceApp)**
+- **Description**: A mobile marketplace app for buying and selling items. Integrated with Stripe for payments and Firebase for backend services.
+- **Key Features**: Secure payments, user authentication, real-time chat.
+- **Technologies Used**: **React Native**, **Firebase**, **Stripe API**, **Redux**.
 
-I’m actively learning and growing in the following areas:
-
-- 🔹 **Advanced Flutter Techniques**: Exploring animations, custom widgets, and performance optimization.  
-- 🔹 **Backend Integration**: Building scalable backends with **Firebase** and **Node.js**.  
-- 🔹 **Continuous Integration (CI)** & **Continuous Deployment (CD)** with tools like **GitHub Actions** and **Firebase Hosting**.  
-- 🔹 **UI/UX Design**: Focusing on creating pixel-perfect, user-friendly interfaces.
-
----
-
-## 🤝 Let's Connect!
-
-- **LinkedIn**: [JuanC LinkedIn](https://www.linkedin.com/in/juancflutterdev/)
-- **GitHub**: [JuanC GitHub](https://github.com/JuanC)
-- **Twitter**: [@JuanCFlutterDev](https://twitter.com/JuanCFlutterDev)
-- **YouTube**: [JuanC YouTube](https://www.youtube.com/@JuanCFlutterDev)
+### **4. [Personal Portfolio Website](https://juancc.dev)**
+- **Description**: A personal portfolio showcasing my mobile app projects and contributions. Built with **Flutter Web**.
+- **Key Features**: Responsive design, project showcases, blog integration.
+- **Technologies Used**: **Flutter**, **Dart**, **Firebase Hosting**.
 
 ---
 
-Thank you for visiting my profile! I’m always open to new opportunities and collaborations. Feel free to reach out if you’d like to connect or discuss a project.
+## 🌟 Achievements & Certifications
+
+- **Flutter Developer Certification** (coming soon)  
+- Published tutorials on **Flutter** development on **YouTube** and **Medium**.  
+- Contributor to popular **open-source Flutter libraries**.  
+- Worked with **leading tech startups** to develop mobile applications with high user engagement.
+
+---
+
+## 📚 Current Focus & Learning Path
+
+- 🔹 **Advanced Flutter**: Mastering Flutter's native code integration and platform channels for more complex use cases.  
+- 🔹 **Performance Optimization**: Delving deeper into app performance, Flutter performance profiling, and **Flutter DevTools** to identify and optimize bottlenecks.  
+- 🔹 **Serverless Architecture**: Using **Firebase** and **AWS Lambda** for
