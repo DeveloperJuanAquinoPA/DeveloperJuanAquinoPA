@@ -48,7 +48,7 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase, figma,git,github,vsco,vscode" alt="Tech Stack" />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,azure,blender,bootstrap,c,cs,cpp,cmake,dart,nodejs,vscode,visualstudio,debian,django,dotnet,express,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,gradle,idea,java,react,html,css,js,jquery,kali,kotlin,laravel,linux,matlab,mongodb,mysql,nestjs,nextjs,nodejs,npm,php,postman,py,r,react,sqlite,selenium,swift,tailwind,tensorflow,ubuntu,unity,unrealengine,vue,yarn,figma&theme=dark&perline=13">
+    <img src="https://skillicons.dev/icons?i=angular,aws,azure,blender,bootstrap,c,cs,cpp,cmake,dart,nodejs,vscode,visualstudio,debian,django,dotnet,express,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,gradle,idea,java,react,html,css,js,jquery,kali,kotlin,laravel,linux,matlab,mongodb,mysql,nestjs,nextjs,nodejs,npm,php,postman,py,r,react,sqlite,selenium,swift,tailwind,tensorflow,ubuntu,unity,unrealengine,vue,yarn,figma,dart, fluttertheme=dark&perline=13">
   </a>
 </p>
   </a>
