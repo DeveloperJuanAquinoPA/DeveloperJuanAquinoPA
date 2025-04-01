@@ -43,7 +43,7 @@
 ---
 
 ## 🛠 Tech Stack & Tools  
-<p align="right">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase, figma,git,github,vsco,vscode" alt="Tech Stack" />
 <p align="center">
